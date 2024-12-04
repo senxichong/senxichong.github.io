@@ -1,6 +1,6 @@
 title: Gabriel Chen
 email: gabrielchen@duck.com
-description: > # this means to ignore newlines until "baseurl:"
+description: > 
     Shut Down The Heart, And Open Your Eyes.
 permalink: ':title/'
 baseurl: "" 
@@ -8,23 +8,14 @@ url: ""
 
 # Author settings
 author: Gabriel Chen 
-author-pic:
-about-author: 
 
 # Contact links
-email: gabrielchen@duck.com # Add your Email address
-phone: # Add your Phone number
-website: gabrielchen.com # Add your website, do not add http://
-linkedin: # Add your Linkedin handle
-github: # Add your Github handle
-twitter: # Add your Twitter handle
-facebook: # Add your Facebook handle
-instagram: # Add your Instagram handle
-pinterest: # Add your Pinterest handle
+email: gabrielchen@duck.com
+website: gabrielchen.com
 mastodon: gabriel
 
 # Newsletter
-mailchimp: # Add your MailChimp form identifier.
+mailchimp: 
 
 # Paginate
 paginate: 6
@@ -32,11 +23,21 @@ paginate_path: /page:num/
 
 # collections
 collections:
-  - books
-  - booktags
-  - movies
-  - movietags
-  - images
+  books:
+    output: true
+    permalink: /books/:title/
+  booktags:
+    output: true
+    permalink: /booktags/:title/
+  movies:
+    output: true
+    permalink: /movies/:title/
+  movietags:
+    output: true
+    permalink: /movietags/:title/
+  images:
+    output: true
+    permalink: /images/:title/
 
 # Build settings
 markdown: kramdown
@@ -45,7 +46,6 @@ plugins:
   - jekyll-paginate
   - jekyll-feed
   - jekyll-sitemap
-  - jekyll-feed
 
 include: [_pages]
 exclude: ["node_modules", "gulpfile.js", "package.json", "yarn.lock"]
