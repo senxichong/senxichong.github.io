@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="zh-CN">
 <head>
   <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width">
@@ -17,13 +17,15 @@
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.7.2/css/all.min.css" integrity="sha256-dABdfBfUoC8vJUBOwGVdm8L9qlMWaHTIfXt+7GnZCIo=" crossorigin="anonymous">
   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/3.1.1/animate.min.css" integrity="sha256-PR7ttpcvz8qrF57fur/yAx1qXMFJeJFiA6pSzWi0OIE=" crossorigin="anonymous">
 
-<script class="next-config" data-name="main" type="application/json">{"hostname":"example.com","root":"/","images":"/images","scheme":"Muse","darkmode":false,"version":"8.23.0","exturl":false,"sidebar":{"position":"left","width_expanded":320,"width_dual_column":240,"display":"post","padding":18,"offset":12},"hljswrap":true,"codeblock":{"theme":{"light":"default","dark":"stackoverflow-dark"},"prism":{"light":"prism","dark":"prism-dark"},"copy_button":{"enable":false,"style":null},"fold":{"enable":false,"height":500},"language":false},"bookmark":{"enable":false,"color":"#222","save":"auto"},"mediumzoom":false,"lazyload":false,"pangu":false,"comments":{"style":"tabs","active":null,"storage":true,"lazyload":false,"nav":null},"stickytabs":false,"motion":{"enable":true,"async":false,"duration":200,"transition":{"menu_item":"fadeInDown","post_block":"fadeIn","post_header":"fadeInDown","post_body":"fadeInDown","coll_header":"fadeInLeft","sidebar":"fadeInUp"}},"i18n":{"placeholder":"Searching...","empty":"We didn't find any results for the search: ${query}","hits_time":"${hits} results found in ${time} ms","hits":"${hits} results found"}}</script><script src="/js/config.js" defer></script>
+<script class="next-config" data-name="main" type="application/json">{"hostname":"example.com","root":"/","images":"/images","scheme":"Muse","darkmode":false,"version":"8.23.0","exturl":false,"sidebar":{"position":"left","width_expanded":320,"width_dual_column":240,"display":"post","padding":18,"offset":12},"hljswrap":true,"codeblock":{"theme":{"light":"default","dark":"stackoverflow-dark"},"prism":{"light":"prism","dark":"prism-dark"},"copy_button":{"enable":false,"style":null},"fold":{"enable":false,"height":500},"language":false},"bookmark":{"enable":false,"color":"#222","save":"auto"},"mediumzoom":false,"lazyload":false,"pangu":false,"comments":{"style":"tabs","active":null,"storage":true,"lazyload":false,"nav":null},"stickytabs":false,"motion":{"enable":true,"async":false,"duration":200,"transition":{"menu_item":"fadeInDown","post_block":"fadeIn","post_header":"fadeInDown","post_body":"fadeInDown","coll_header":"fadeInLeft","sidebar":"fadeInUp"}},"i18n":{"placeholder":"搜索...","empty":"没有找到任何搜索结果：${query}","hits_time":"找到 ${hits} 个搜索结果（用时 ${time} 毫秒）","hits":"找到 ${hits} 个搜索结果"}}</script><script src="/js/config.js" defer></script>
 
-    <meta property="og:type" content="website">
+    <meta name="description" content="希望你头戴簪花，一路走来，一路盛开">
+<meta property="og:type" content="website">
 <meta property="og:title" content="senxichong&#39;s blog">
 <meta property="og:url" content="http://example.com/page/2/index.html">
 <meta property="og:site_name" content="senxichong&#39;s blog">
-<meta property="og:locale" content="en_US">
+<meta property="og:description" content="希望你头戴簪花，一路走来，一路盛开">
+<meta property="og:locale" content="zh_CN">
 <meta property="article:author" content="senxichong">
 <meta name="twitter:card" content="summary">
 
@@ -31,7 +33,7 @@
 <link rel="canonical" href="http://example.com/page/2/">
 
 
-<script class="next-config" data-name="page" type="application/json">{"sidebar":"","isHome":true,"isPost":false,"lang":"en","comments":"","permalink":"","path":"page/2/index.html","title":""}</script>
+<script class="next-config" data-name="page" type="application/json">{"sidebar":"","isHome":true,"isPost":false,"lang":"zh-CN","comments":"","permalink":"","path":"page/2/index.html","title":""}</script>
 
 <script class="next-config" data-name="calendar" type="application/json">""</script>
 <title>senxichong's blog</title>
@@ -73,7 +75,10 @@
     <div class="column">
       <header class="header" itemscope itemtype="http://schema.org/WPHeader"><div class="site-brand-container">
   <div class="site-nav-toggle">
-    <div class="toggle" aria-label="Toggle navigation bar" role="button">
+    <div class="toggle" aria-label="切换导航栏" role="button">
+        <span class="toggle-line"></span>
+        <span class="toggle-line"></span>
+        <span class="toggle-line"></span>
     </div>
   </div>
 
@@ -84,16 +89,21 @@
       <h1 class="site-title">senxichong's blog</h1>
       <i class="logo-line"></i>
     </a>
+      <p class="site-subtitle" itemprop="description">senxichong</p>
   </div>
 
   <div class="site-nav-right">
-    <div class="toggle popup-trigger" aria-label="Search" role="button">
+    <div class="toggle popup-trigger" aria-label="搜索" role="button">
     </div>
   </div>
 </div>
 
 
 
+<nav class="site-nav">
+  <ul class="main-menu menu"><li class="menu-item menu-item-home"><a href="/" rel="section"><i class="fa fa-home fa-fw"></i>首页</a></li><li class="menu-item menu-item-about"><a href="/source/_post/about.md" rel="section"><i class="fa fa-user fa-fw"></i>关于</a></li><li class="menu-item menu-item-post"><a href="/source/_posts/" rel="section"><i class="fa fa-file-text fa-fw"></i>post</a></li>
+  </ul>
+</nav>
 
 
 
@@ -106,10 +116,10 @@
     <div class="sidebar-inner sidebar-overview-active">
       <ul class="sidebar-nav">
         <li class="sidebar-nav-toc">
-          Table of Contents
+          文章目录
         </li>
         <li class="sidebar-nav-overview">
-          Overview
+          站点概览
         </li>
       </ul>
 
@@ -122,19 +132,19 @@
         <div class="site-overview-wrap sidebar-panel">
           <div class="site-author animated" itemprop="author" itemscope itemtype="http://schema.org/Person">
   <p class="site-author-name" itemprop="name">senxichong</p>
-  <div class="site-description" itemprop="description"></div>
+  <div class="site-description" itemprop="description">希望你头戴簪花，一路走来，一路盛开</div>
 </div>
 <div class="site-state-wrap animated">
   <nav class="site-state">
       <div class="site-state-item site-state-posts">
         <a href="/archives/">
-          <span class="site-state-item-count">26</span>
-          <span class="site-state-item-name">posts</span>
+          <span class="site-state-item-count">27</span>
+          <span class="site-state-item-name">日志</span>
         </a>
       </div>
       <div class="site-state-item site-state-tags">
-        <span class="site-state-item-count">3</span>
-        <span class="site-state-item-name">tags</span>
+        <span class="site-state-item-count">4</span>
+        <span class="site-state-item-name">标签</span>
       </div>
   </nav>
 </div>
@@ -159,6 +169,91 @@
   
 
   <article itemscope itemtype="http://schema.org/Article" class="post-content" lang="">
+    <link itemprop="mainEntityOfPage" href="http://example.com/talks/2024-12-11-talk">
+
+    <span hidden itemprop="author" itemscope itemtype="http://schema.org/Person">
+      <meta itemprop="image" content="/images/avatar.gif">
+      <meta itemprop="name" content="senxichong">
+    </span>
+
+    <span hidden itemprop="publisher" itemscope itemtype="http://schema.org/Organization">
+      <meta itemprop="name" content="senxichong's blog">
+      <meta itemprop="description" content="希望你头戴簪花，一路走来，一路盛开">
+    </span>
+
+    <span hidden itemprop="post" itemscope itemtype="http://schema.org/CreativeWork">
+      <meta itemprop="name" content=" | senxichong's blog">
+      <meta itemprop="description" content="">
+    </span>
+      <header class="post-header">
+        <h2 class="post-title" itemprop="name headline">
+          <a href="/talks/2024-12-11-talk" class="post-title-link" itemprop="url">听在加纳共和国离婚有感</a>
+        </h2>
+
+        <div class="post-meta-container">
+          <div class="post-meta">
+    <span class="post-meta-item">
+      <span class="post-meta-item-icon">
+        <i class="far fa-calendar"></i>
+      </span>
+      <span class="post-meta-item-text">发表于</span>
+      
+
+      <time title="创建时间：2024-12-11 00:00:00 / 修改时间：20:30:52" itemprop="dateCreated datePublished" datetime="2024-12-11T00:00:00+08:00">2024-12-11</time>
+    </span>
+    <span class="post-meta-item">
+      <span class="post-meta-item-icon">
+        <i class="fas fa-map-marker-alt"></i>
+      </span>
+      <span class="post-meta-item-text">Venue:</span>
+      <span>College of Humannities,UCAS</span>
+    </span>
+    <span class="post-meta-item">
+      <span class="post-meta-item-icon">
+        <i class="fas fa-globe-asia"></i>
+      </span>
+      <span class="post-meta-item-text">Location:</span>
+      <span>Beijing, CN</span>
+    </span>
+
+  
+</div>
+
+        </div>
+      </header>
+
+    
+    
+    
+    <div class="post-body" itemprop="articleBody">
+          <p>现在耳机里面的是在加纳共和国离婚，歌词里那句你还爱我吗？真让人心碎，而且是再也回不到的那种结局，我在心里究竟爱没爱过，我没有办法说出来毕竟过去的经历让我不敢说。我错过了很多，过去了好久也没有办法遗忘。每每当我和别的女生出去的时候，我的思念便能够缓解一些，可是，这思念，这不甘，这感情的反扑，真的让人寝食难安。我就像个小丑一直在原地，苦苦等待，等待一个永远没有结果的结局。在过去和现在的交织的幻影中，才能得到一些缓和。<br>早知如此，我会不会后悔？？<br>这是个我不能回答的问题！</p>
+<p>我究竟是谁？还是2022的自己吗？不是了，因为已经2024，马上就会2025，希望能够快乐的结束这个2024。</p>
+
+      
+    </div>
+
+    
+    
+    
+
+    <footer class="post-footer">
+        <div class="post-eof"></div>
+      
+    </footer>
+  </article>
+</div>
+
+
+
+
+    
+
+
+<div class="post-block">
+  
+  
+
+  <article itemscope itemtype="http://schema.org/Article" class="post-content" lang="">
     <link itemprop="mainEntityOfPage" href="http://example.com/talks/2024-12-10-talk">
 
     <span hidden itemprop="author" itemscope itemtype="http://schema.org/Person">
@@ -168,7 +263,7 @@
 
     <span hidden itemprop="publisher" itemscope itemtype="http://schema.org/Organization">
       <meta itemprop="name" content="senxichong's blog">
-      <meta itemprop="description" content="">
+      <meta itemprop="description" content="希望你头戴簪花，一路走来，一路盛开">
     </span>
 
     <span hidden itemprop="post" itemscope itemtype="http://schema.org/CreativeWork">
@@ -186,10 +281,10 @@
       <span class="post-meta-item-icon">
         <i class="far fa-calendar"></i>
       </span>
-      <span class="post-meta-item-text">Posted on</span>
+      <span class="post-meta-item-text">发表于</span>
       
 
-      <time title="Created: 2024-12-10 00:00:00 / Modified: 21:24:05" itemprop="dateCreated datePublished" datetime="2024-12-10T00:00:00+08:00">2024-12-10</time>
+      <time title="创建时间：2024-12-10 00:00:00 / 修改时间：21:24:05" itemprop="dateCreated datePublished" datetime="2024-12-10T00:00:00+08:00">2024-12-10</time>
     </span>
     <span class="post-meta-item">
       <span class="post-meta-item-icon">
@@ -252,7 +347,7 @@
 
     <span hidden itemprop="publisher" itemscope itemtype="http://schema.org/Organization">
       <meta itemprop="name" content="senxichong's blog">
-      <meta itemprop="description" content="">
+      <meta itemprop="description" content="希望你头戴簪花，一路走来，一路盛开">
     </span>
 
     <span hidden itemprop="post" itemscope itemtype="http://schema.org/CreativeWork">
@@ -270,9 +365,9 @@
       <span class="post-meta-item-icon">
         <i class="far fa-calendar"></i>
       </span>
-      <span class="post-meta-item-text">Posted on</span>
+      <span class="post-meta-item-text">发表于</span>
 
-      <time title="Created: 2024-12-09 00:00:00" itemprop="dateCreated datePublished" datetime="2024-12-09T00:00:00+08:00">2024-12-09</time>
+      <time title="创建时间：2024-12-09 00:00:00" itemprop="dateCreated datePublished" datetime="2024-12-09T00:00:00+08:00">2024-12-09</time>
     </span>
     <span class="post-meta-item">
       <span class="post-meta-item-icon">
@@ -292,8 +387,8 @@
       <span class="post-meta-item-icon">
         <i class="far fa-calendar-check"></i>
       </span>
-      <span class="post-meta-item-text">Edited on</span>
-      <time title="Modified: 2024-12-10 18:54:10" itemprop="dateModified" datetime="2024-12-10T18:54:10+08:00">2024-12-10</time>
+      <span class="post-meta-item-text">更新于</span>
+      <time title="修改时间：2024-12-10 18:54:10" itemprop="dateModified" datetime="2024-12-10T18:54:10+08:00">2024-12-10</time>
     </span>
 
   
@@ -345,7 +440,7 @@
 
     <span hidden itemprop="publisher" itemscope itemtype="http://schema.org/Organization">
       <meta itemprop="name" content="senxichong's blog">
-      <meta itemprop="description" content="">
+      <meta itemprop="description" content="希望你头戴簪花，一路走来，一路盛开">
     </span>
 
     <span hidden itemprop="post" itemscope itemtype="http://schema.org/CreativeWork">
@@ -363,9 +458,9 @@
       <span class="post-meta-item-icon">
         <i class="far fa-calendar"></i>
       </span>
-      <span class="post-meta-item-text">Posted on</span>
+      <span class="post-meta-item-text">发表于</span>
 
-      <time title="Created: 2024-12-02 00:00:00" itemprop="dateCreated datePublished" datetime="2024-12-02T00:00:00+08:00">2024-12-02</time>
+      <time title="创建时间：2024-12-02 00:00:00" itemprop="dateCreated datePublished" datetime="2024-12-02T00:00:00+08:00">2024-12-02</time>
     </span>
     <span class="post-meta-item">
       <span class="post-meta-item-icon">
@@ -385,8 +480,8 @@
       <span class="post-meta-item-icon">
         <i class="far fa-calendar-check"></i>
       </span>
-      <span class="post-meta-item-text">Edited on</span>
-      <time title="Modified: 2025-04-18 13:41:47" itemprop="dateModified" datetime="2025-04-18T13:41:47+08:00">2025-04-18</time>
+      <span class="post-meta-item-text">更新于</span>
+      <time title="修改时间：2025-04-18 13:41:47" itemprop="dateModified" datetime="2025-04-18T13:41:47+08:00">2025-04-18</time>
     </span>
 
   
@@ -435,7 +530,7 @@
 
     <span hidden itemprop="publisher" itemscope itemtype="http://schema.org/Organization">
       <meta itemprop="name" content="senxichong's blog">
-      <meta itemprop="description" content="">
+      <meta itemprop="description" content="希望你头戴簪花，一路走来，一路盛开">
     </span>
 
     <span hidden itemprop="post" itemscope itemtype="http://schema.org/CreativeWork">
@@ -453,9 +548,9 @@
       <span class="post-meta-item-icon">
         <i class="far fa-calendar"></i>
       </span>
-      <span class="post-meta-item-text">Posted on</span>
+      <span class="post-meta-item-text">发表于</span>
 
-      <time title="Created: 2024-11-29 00:00:00" itemprop="dateCreated datePublished" datetime="2024-11-29T00:00:00+08:00">2024-11-29</time>
+      <time title="创建时间：2024-11-29 00:00:00" itemprop="dateCreated datePublished" datetime="2024-11-29T00:00:00+08:00">2024-11-29</time>
     </span>
     <span class="post-meta-item">
       <span class="post-meta-item-icon">
@@ -475,8 +570,8 @@
       <span class="post-meta-item-icon">
         <i class="far fa-calendar-check"></i>
       </span>
-      <span class="post-meta-item-text">Edited on</span>
-      <time title="Modified: 2025-04-18 13:31:18" itemprop="dateModified" datetime="2025-04-18T13:31:18+08:00">2025-04-18</time>
+      <span class="post-meta-item-text">更新于</span>
+      <time title="修改时间：2025-04-18 13:31:18" itemprop="dateModified" datetime="2025-04-18T13:31:18+08:00">2025-04-18</time>
     </span>
 
   
@@ -527,7 +622,7 @@
 
     <span hidden itemprop="publisher" itemscope itemtype="http://schema.org/Organization">
       <meta itemprop="name" content="senxichong's blog">
-      <meta itemprop="description" content="">
+      <meta itemprop="description" content="希望你头戴簪花，一路走来，一路盛开">
     </span>
 
     <span hidden itemprop="post" itemscope itemtype="http://schema.org/CreativeWork">
@@ -545,9 +640,9 @@
       <span class="post-meta-item-icon">
         <i class="far fa-calendar"></i>
       </span>
-      <span class="post-meta-item-text">Posted on</span>
+      <span class="post-meta-item-text">发表于</span>
 
-      <time title="Created: 2024-11-27 00:00:00" itemprop="dateCreated datePublished" datetime="2024-11-27T00:00:00+08:00">2024-11-27</time>
+      <time title="创建时间：2024-11-27 00:00:00" itemprop="dateCreated datePublished" datetime="2024-11-27T00:00:00+08:00">2024-11-27</time>
     </span>
     <span class="post-meta-item">
       <span class="post-meta-item-icon">
@@ -567,8 +662,8 @@
       <span class="post-meta-item-icon">
         <i class="far fa-calendar-check"></i>
       </span>
-      <span class="post-meta-item-text">Edited on</span>
-      <time title="Modified: 2025-04-18 13:42:29" itemprop="dateModified" datetime="2025-04-18T13:42:29+08:00">2025-04-18</time>
+      <span class="post-meta-item-text">更新于</span>
+      <time title="修改时间：2025-04-18 13:42:29" itemprop="dateModified" datetime="2025-04-18T13:42:29+08:00">2025-04-18</time>
     </span>
 
   
@@ -617,7 +712,7 @@
 
     <span hidden itemprop="publisher" itemscope itemtype="http://schema.org/Organization">
       <meta itemprop="name" content="senxichong's blog">
-      <meta itemprop="description" content="">
+      <meta itemprop="description" content="希望你头戴簪花，一路走来，一路盛开">
     </span>
 
     <span hidden itemprop="post" itemscope itemtype="http://schema.org/CreativeWork">
@@ -635,10 +730,10 @@
       <span class="post-meta-item-icon">
         <i class="far fa-calendar"></i>
       </span>
-      <span class="post-meta-item-text">Posted on</span>
+      <span class="post-meta-item-text">发表于</span>
       
 
-      <time title="Created: 2024-11-25 00:00:00 / Modified: 22:14:58" itemprop="dateCreated datePublished" datetime="2024-11-25T00:00:00+08:00">2024-11-25</time>
+      <time title="创建时间：2024-11-25 00:00:00 / 修改时间：22:14:58" itemprop="dateCreated datePublished" datetime="2024-11-25T00:00:00+08:00">2024-11-25</time>
     </span>
     <span class="post-meta-item">
       <span class="post-meta-item-icon">
@@ -708,7 +803,7 @@
 
     <span hidden itemprop="publisher" itemscope itemtype="http://schema.org/Organization">
       <meta itemprop="name" content="senxichong's blog">
-      <meta itemprop="description" content="">
+      <meta itemprop="description" content="希望你头戴簪花，一路走来，一路盛开">
     </span>
 
     <span hidden itemprop="post" itemscope itemtype="http://schema.org/CreativeWork">
@@ -726,10 +821,10 @@
       <span class="post-meta-item-icon">
         <i class="far fa-calendar"></i>
       </span>
-      <span class="post-meta-item-text">Posted on</span>
+      <span class="post-meta-item-text">发表于</span>
       
 
-      <time title="Created: 2024-11-22 00:00:00 / Modified: 23:14:45" itemprop="dateCreated datePublished" datetime="2024-11-22T00:00:00+08:00">2024-11-22</time>
+      <time title="创建时间：2024-11-22 00:00:00 / 修改时间：23:14:45" itemprop="dateCreated datePublished" datetime="2024-11-22T00:00:00+08:00">2024-11-22</time>
     </span>
     <span class="post-meta-item">
       <span class="post-meta-item-icon">
@@ -798,7 +893,7 @@
 
     <span hidden itemprop="publisher" itemscope itemtype="http://schema.org/Organization">
       <meta itemprop="name" content="senxichong's blog">
-      <meta itemprop="description" content="">
+      <meta itemprop="description" content="希望你头戴簪花，一路走来，一路盛开">
     </span>
 
     <span hidden itemprop="post" itemscope itemtype="http://schema.org/CreativeWork">
@@ -816,9 +911,9 @@
       <span class="post-meta-item-icon">
         <i class="far fa-calendar"></i>
       </span>
-      <span class="post-meta-item-text">Posted on</span>
+      <span class="post-meta-item-text">发表于</span>
 
-      <time title="Created: 2024-11-21 00:00:00" itemprop="dateCreated datePublished" datetime="2024-11-21T00:00:00+08:00">2024-11-21</time>
+      <time title="创建时间：2024-11-21 00:00:00" itemprop="dateCreated datePublished" datetime="2024-11-21T00:00:00+08:00">2024-11-21</time>
     </span>
     <span class="post-meta-item">
       <span class="post-meta-item-icon">
@@ -838,8 +933,8 @@
       <span class="post-meta-item-icon">
         <i class="far fa-calendar-check"></i>
       </span>
-      <span class="post-meta-item-text">Edited on</span>
-      <time title="Modified: 2024-11-22 23:14:20" itemprop="dateModified" datetime="2024-11-22T23:14:20+08:00">2024-11-22</time>
+      <span class="post-meta-item-text">更新于</span>
+      <time title="修改时间：2024-11-22 23:14:20" itemprop="dateModified" datetime="2024-11-22T23:14:20+08:00">2024-11-22</time>
     </span>
 
   
@@ -896,7 +991,7 @@
 
     <span hidden itemprop="publisher" itemscope itemtype="http://schema.org/Organization">
       <meta itemprop="name" content="senxichong's blog">
-      <meta itemprop="description" content="">
+      <meta itemprop="description" content="希望你头戴簪花，一路走来，一路盛开">
     </span>
 
     <span hidden itemprop="post" itemscope itemtype="http://schema.org/CreativeWork">
@@ -914,9 +1009,9 @@
       <span class="post-meta-item-icon">
         <i class="far fa-calendar"></i>
       </span>
-      <span class="post-meta-item-text">Posted on</span>
+      <span class="post-meta-item-text">发表于</span>
 
-      <time title="Created: 2024-11-20 00:00:00" itemprop="dateCreated datePublished" datetime="2024-11-20T00:00:00+08:00">2024-11-20</time>
+      <time title="创建时间：2024-11-20 00:00:00" itemprop="dateCreated datePublished" datetime="2024-11-20T00:00:00+08:00">2024-11-20</time>
     </span>
     <span class="post-meta-item">
       <span class="post-meta-item-icon">
@@ -936,8 +1031,8 @@
       <span class="post-meta-item-icon">
         <i class="far fa-calendar-check"></i>
       </span>
-      <span class="post-meta-item-text">Edited on</span>
-      <time title="Modified: 2024-11-22 23:13:57" itemprop="dateModified" datetime="2024-11-22T23:13:57+08:00">2024-11-22</time>
+      <span class="post-meta-item-text">更新于</span>
+      <time title="修改时间：2024-11-22 23:13:57" itemprop="dateModified" datetime="2024-11-22T23:13:57+08:00">2024-11-22</time>
     </span>
 
   
@@ -969,103 +1064,8 @@
 
 
 
-    
-
-
-<div class="post-block">
-  
-  
-
-  <article itemscope itemtype="http://schema.org/Article" class="post-content" lang="">
-    <link itemprop="mainEntityOfPage" href="http://example.com/talks/2024-11-19-talk-2">
-
-    <span hidden itemprop="author" itemscope itemtype="http://schema.org/Person">
-      <meta itemprop="image" content="/images/avatar.gif">
-      <meta itemprop="name" content="senxichong">
-    </span>
-
-    <span hidden itemprop="publisher" itemscope itemtype="http://schema.org/Organization">
-      <meta itemprop="name" content="senxichong's blog">
-      <meta itemprop="description" content="">
-    </span>
-
-    <span hidden itemprop="post" itemscope itemtype="http://schema.org/CreativeWork">
-      <meta itemprop="name" content=" | senxichong's blog">
-      <meta itemprop="description" content="">
-    </span>
-      <header class="post-header">
-        <h2 class="post-title" itemprop="name headline">
-          <a href="/talks/2024-11-19-talk-2" class="post-title-link" itemprop="url">生活杂谈</a>
-        </h2>
-
-        <div class="post-meta-container">
-          <div class="post-meta">
-    <span class="post-meta-item">
-      <span class="post-meta-item-icon">
-        <i class="far fa-calendar"></i>
-      </span>
-      <span class="post-meta-item-text">Posted on</span>
-
-      <time title="Created: 2024-11-19 00:00:00" itemprop="dateCreated datePublished" datetime="2024-11-19T00:00:00+08:00">2024-11-19</time>
-    </span>
-    <span class="post-meta-item">
-      <span class="post-meta-item-icon">
-        <i class="fas fa-map-marker-alt"></i>
-      </span>
-      <span class="post-meta-item-text">Venue:</span>
-      <span>Library,UCAS</span>
-    </span>
-    <span class="post-meta-item">
-      <span class="post-meta-item-icon">
-        <i class="fas fa-globe-asia"></i>
-      </span>
-      <span class="post-meta-item-text">Location:</span>
-      <span>Beijing, CN</span>
-    </span>
-    <span class="post-meta-item">
-      <span class="post-meta-item-icon">
-        <i class="far fa-calendar-check"></i>
-      </span>
-      <span class="post-meta-item-text">Edited on</span>
-      <time title="Modified: 2024-11-22 23:13:30" itemprop="dateModified" datetime="2024-11-22T23:13:30+08:00">2024-11-22</time>
-    </span>
-
-  
-</div>
-
-        </div>
-      </header>
-
-    
-    
-    
-    <div class="post-body" itemprop="articleBody">
-          <h1 id="近期的一些事项"><a href="#近期的一些事项" class="headerlink" title="近期的一些事项:"></a>近期的一些事项:</h1><ul>
-<li>最近最重要的学习便是机器学习，我学习的是台湾李老师的课程，非常清晰，易于理解，希望能有所收获。</li>
-<li>这周末的舞会是一个机会，来缓解我面临的尴尬局面：自认为不凡，但是实践中没有战果来证明。</li>
-<li>完成CA和OS两门课的预习，因为上课确实没听，也没有录像，在讲课这一点国科大远不如台湾大学，我不相信中国大陆的TOP3比不过一个省的顶尖大学，我們的教育確實有問題！！！（發自我的手機）</li>
-<li>有时间把这个网站也打理打理，比朋友圈好多了，毕竟没人知道（笑），也能记录不少东西。</li>
-</ul>
-
-      
-    </div>
-
-    
-    
-    
-
-    <footer class="post-footer">
-        <div class="post-eof"></div>
-      
-    </footer>
-  </article>
-</div>
-
-
-
-
   <nav class="pagination">
-    <a class="extend prev" rel="prev" title="Previous page" aria-label="Previous page" href="/"><i class="fa fa-angle-left"></i></a><a class="page-number" href="/">1</a><span class="page-number current">2</span><a class="page-number" href="/page/3/">3</a><a class="extend next" rel="next" title="Next page" aria-label="Next page" href="/page/3/"><i class="fa fa-angle-right"></i></a>
+    <a class="extend prev" rel="prev" title="上一页" aria-label="上一页" href="/"><i class="fa fa-angle-left"></i></a><a class="page-number" href="/">1</a><span class="page-number current">2</span><a class="page-number" href="/page/3/">3</a><a class="extend next" rel="next" title="下一页" aria-label="下一页" href="/page/3/"><i class="fa fa-angle-right"></i></a>
   </nav>
 
 </div>
@@ -1082,7 +1082,7 @@
     </span>
     <span class="author" itemprop="copyrightHolder">senxichong</span>
   </div>
-  <div class="powered-by">Powered by <a href="https://hexo.io/" rel="noopener" target="_blank">Hexo</a> & <a href="https://theme-next.js.org/muse/" rel="noopener" target="_blank">NexT.Muse</a>
+  <div class="powered-by">由 <a href="https://hexo.io/" rel="noopener" target="_blank">Hexo</a> & <a href="https://theme-next.js.org/muse/" rel="noopener" target="_blank">NexT.Muse</a> 强力驱动
   </div>
 
     </div>
@@ -1095,7 +1095,7 @@
     <span class="toggle-line"></span>
   </div>
   <div class="sidebar-dimmer"></div>
-  <div class="back-to-top" role="button" aria-label="Back to top">
+  <div class="back-to-top" role="button" aria-label="返回顶部">
     <i class="fa fa-arrow-up fa-lg"></i>
     <span>0%</span>
   </div>
