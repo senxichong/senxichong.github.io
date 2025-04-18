@@ -23,12 +23,12 @@
 <meta property="og:type" content="article">
 <meta property="og:title" content="在快要离开新加坡的一些感想">
 <meta property="og:url" content="http://example.com/talks/2025-4-17-talk">
-<meta property="og:site_name" content="Hexo">
+<meta property="og:site_name" content="senxichong&#39;s blog">
 <meta property="og:description" content="这下是真的快离开了，我没有什么不舍。因为这个地方没有什么值得留恋的。 我本来以为这次新加坡之旅会是一场冒险，只要有勇气，有毅力，有实力，就可以完成一些不可思议的壮举，但是我错估了这次冒险的难度。新加坡似乎不需要我，不需要我这个外来者。我和当地人并不能很好的交流，主要是因为我自己的英语水平不够，这边人的汉语水平也是二把刀。交流上很是困难，更加离谱的是我在一开始就选择冷另外一条道路，导致我自己的交流通">
 <meta property="og:locale" content="en_US">
 <meta property="article:published_time" content="2025-04-16T16:00:00.000Z">
 <meta property="article:modified_time" content="2025-04-17T04:38:52.156Z">
-<meta property="article:author" content="John Doe">
+<meta property="article:author" content="senxichong">
 <meta name="twitter:card" content="summary">
 
 
@@ -38,7 +38,7 @@
 <script class="next-config" data-name="page" type="application/json">{"sidebar":"","isHome":false,"isPost":true,"lang":"en","comments":true,"permalink":"http://example.com/talks/2025-4-17-talk","path":"/talks/2025-4-17-talk","title":"在快要离开新加坡的一些感想"}</script>
 
 <script class="next-config" data-name="calendar" type="application/json">""</script>
-<title>在快要离开新加坡的一些感想 | Hexo</title>
+<title>在快要离开新加坡的一些感想 | senxichong's blog</title>
   
 
 
@@ -85,7 +85,7 @@
 
     <a href="/" class="brand" rel="start">
       <i class="logo-line"></i>
-      <p class="site-title">Hexo</p>
+      <p class="site-title">senxichong's blog</p>
       <i class="logo-line"></i>
     </a>
   </div>
@@ -125,7 +125,7 @@
 
         <div class="site-overview-wrap sidebar-panel">
           <div class="site-author animated" itemprop="author" itemscope itemtype="http://schema.org/Person">
-  <p class="site-author-name" itemprop="name">John Doe</p>
+  <p class="site-author-name" itemprop="name">senxichong</p>
   <div class="site-description" itemprop="description"></div>
 </div>
 <div class="site-state-wrap animated">
@@ -168,16 +168,16 @@
 
     <span hidden itemprop="author" itemscope itemtype="http://schema.org/Person">
       <meta itemprop="image" content="/images/avatar.gif">
-      <meta itemprop="name" content="John Doe">
+      <meta itemprop="name" content="senxichong">
     </span>
 
     <span hidden itemprop="publisher" itemscope itemtype="http://schema.org/Organization">
-      <meta itemprop="name" content="Hexo">
+      <meta itemprop="name" content="senxichong's blog">
       <meta itemprop="description" content="">
     </span>
 
     <span hidden itemprop="post" itemscope itemtype="http://schema.org/CreativeWork">
-      <meta itemprop="name" content="在快要离开新加坡的一些感想 | Hexo">
+      <meta itemprop="name" content="在快要离开新加坡的一些感想 | senxichong's blog">
       <meta itemprop="description" content="">
     </span>
       <header class="post-header">
@@ -195,6 +195,20 @@
       
 
       <time title="Created: 2025-04-17 00:00:00 / Modified: 12:38:52" itemprop="dateCreated datePublished" datetime="2025-04-17T00:00:00+08:00">2025-04-17</time>
+    </span>
+    <span class="post-meta-item">
+      <span class="post-meta-item-icon">
+        <i class="fas fa-map-marker-alt"></i>
+      </span>
+      <span class="post-meta-item-text">Venue:</span>
+      <span>Central Library，NUS </span>
+    </span>
+    <span class="post-meta-item">
+      <span class="post-meta-item-icon">
+        <i class="fas fa-globe-asia"></i>
+      </span>
+      <span class="post-meta-item-text">Location:</span>
+      <span>SG</span>
     </span>
 
   
@@ -255,7 +269,7 @@
     <span class="with-love">
       <i class="fa fa-heart"></i>
     </span>
-    <span class="author" itemprop="copyrightHolder">John Doe</span>
+    <span class="author" itemprop="copyrightHolder">senxichong</span>
   </div>
   <div class="powered-by">Powered by <a href="https://hexo.io/" rel="noopener" target="_blank">Hexo</a> & <a href="https://theme-next.js.org/muse/" rel="noopener" target="_blank">NexT.Muse</a>
   </div>

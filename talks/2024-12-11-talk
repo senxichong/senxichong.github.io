@@ -23,12 +23,12 @@
 <meta property="og:type" content="article">
 <meta property="og:title" content="听在加纳共和国离婚有感">
 <meta property="og:url" content="http://example.com/talks/2024-12-11-talk">
-<meta property="og:site_name" content="Hexo">
+<meta property="og:site_name" content="senxichong&#39;s blog">
 <meta property="og:description" content="现在耳机里面的是在加纳共和国离婚，歌词里那句你还爱我吗？真让人心碎，而且是再也回不到的那种结局，我在心里究竟爱没爱过，我没有办法说出来毕竟过去的经历让我不敢说。我错过了很多，过去了好久也没有办法遗忘。每每当我和别的女生出去的时候，我的思念便能够缓解一些，可是，这思念，这不甘，这感情的反扑，真的让人寝食难安。我就像个小丑一直在原地，苦苦等待，等待一个永远没有结果的结局。在过去和现在的交织的幻影中，才">
 <meta property="og:locale" content="en_US">
 <meta property="article:published_time" content="2024-12-10T16:00:00.000Z">
 <meta property="article:modified_time" content="2024-12-11T12:30:52.615Z">
-<meta property="article:author" content="John Doe">
+<meta property="article:author" content="senxichong">
 <meta name="twitter:card" content="summary">
 
 
@@ -38,7 +38,7 @@
 <script class="next-config" data-name="page" type="application/json">{"sidebar":"","isHome":false,"isPost":true,"lang":"en","comments":true,"permalink":"http://example.com/talks/2024-12-11-talk","path":"/talks/2024-12-11-talk","title":"听在加纳共和国离婚有感"}</script>
 
 <script class="next-config" data-name="calendar" type="application/json">""</script>
-<title>听在加纳共和国离婚有感 | Hexo</title>
+<title>听在加纳共和国离婚有感 | senxichong's blog</title>
   
 
 
@@ -85,7 +85,7 @@
 
     <a href="/" class="brand" rel="start">
       <i class="logo-line"></i>
-      <p class="site-title">Hexo</p>
+      <p class="site-title">senxichong's blog</p>
       <i class="logo-line"></i>
     </a>
   </div>
@@ -125,7 +125,7 @@
 
         <div class="site-overview-wrap sidebar-panel">
           <div class="site-author animated" itemprop="author" itemscope itemtype="http://schema.org/Person">
-  <p class="site-author-name" itemprop="name">John Doe</p>
+  <p class="site-author-name" itemprop="name">senxichong</p>
   <div class="site-description" itemprop="description"></div>
 </div>
 <div class="site-state-wrap animated">
@@ -168,16 +168,16 @@
 
     <span hidden itemprop="author" itemscope itemtype="http://schema.org/Person">
       <meta itemprop="image" content="/images/avatar.gif">
-      <meta itemprop="name" content="John Doe">
+      <meta itemprop="name" content="senxichong">
     </span>
 
     <span hidden itemprop="publisher" itemscope itemtype="http://schema.org/Organization">
-      <meta itemprop="name" content="Hexo">
+      <meta itemprop="name" content="senxichong's blog">
       <meta itemprop="description" content="">
     </span>
 
     <span hidden itemprop="post" itemscope itemtype="http://schema.org/CreativeWork">
-      <meta itemprop="name" content="听在加纳共和国离婚有感 | Hexo">
+      <meta itemprop="name" content="听在加纳共和国离婚有感 | senxichong's blog">
       <meta itemprop="description" content="">
     </span>
       <header class="post-header">
@@ -195,6 +195,20 @@
       
 
       <time title="Created: 2024-12-11 00:00:00 / Modified: 20:30:52" itemprop="dateCreated datePublished" datetime="2024-12-11T00:00:00+08:00">2024-12-11</time>
+    </span>
+    <span class="post-meta-item">
+      <span class="post-meta-item-icon">
+        <i class="fas fa-map-marker-alt"></i>
+      </span>
+      <span class="post-meta-item-text">Venue:</span>
+      <span>College of Humannities,UCAS</span>
+    </span>
+    <span class="post-meta-item">
+      <span class="post-meta-item-icon">
+        <i class="fas fa-globe-asia"></i>
+      </span>
+      <span class="post-meta-item-text">Location:</span>
+      <span>Beijing, CN</span>
     </span>
 
   
@@ -252,7 +266,7 @@
     <span class="with-love">
       <i class="fa fa-heart"></i>
     </span>
-    <span class="author" itemprop="copyrightHolder">John Doe</span>
+    <span class="author" itemprop="copyrightHolder">senxichong</span>
   </div>
   <div class="powered-by">Powered by <a href="https://hexo.io/" rel="noopener" target="_blank">Hexo</a> & <a href="https://theme-next.js.org/muse/" rel="noopener" target="_blank">NexT.Muse</a>
   </div>

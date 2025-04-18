@@ -23,12 +23,12 @@
 <meta property="og:type" content="article">
 <meta property="og:title" content="昨日以及今日发生的事件复盘">
 <meta property="og:url" content="http://example.com/talks/2024-11-25-talk">
-<meta property="og:site_name" content="Hexo">
+<meta property="og:site_name" content="senxichong&#39;s blog">
 <meta property="og:description" content="对于昨天的舞会我要给一个大大的好评，因为我觉得匹配到的舞伴人虽然长相不太好，但是比较适合我对于另一半的性格方面的要求。总的来说比较坦诚，她的家教也比较不错，我觉得就是对我不够热情，不过这个我觉得算正常。我本来也没有比较大的期待。 就跳了一支舞，然后两个人跑到五棵松去了。玩的比较开心。想不到第一次和妹子逛五棵松居然是和她，我真是服了，我原来还想和老朋友去，结果这辈子不肯能啦，老朋友都离我而去了，这辈">
 <meta property="og:locale" content="en_US">
 <meta property="article:published_time" content="2024-11-24T16:00:00.000Z">
 <meta property="article:modified_time" content="2024-11-25T14:14:58.275Z">
-<meta property="article:author" content="John Doe">
+<meta property="article:author" content="senxichong">
 <meta name="twitter:card" content="summary">
 
 
@@ -38,7 +38,7 @@
 <script class="next-config" data-name="page" type="application/json">{"sidebar":"","isHome":false,"isPost":true,"lang":"en","comments":true,"permalink":"http://example.com/talks/2024-11-25-talk","path":"/talks/2024-11-25-talk","title":"昨日以及今日发生的事件复盘"}</script>
 
 <script class="next-config" data-name="calendar" type="application/json">""</script>
-<title>昨日以及今日发生的事件复盘 | Hexo</title>
+<title>昨日以及今日发生的事件复盘 | senxichong's blog</title>
   
 
 
@@ -85,7 +85,7 @@
 
     <a href="/" class="brand" rel="start">
       <i class="logo-line"></i>
-      <p class="site-title">Hexo</p>
+      <p class="site-title">senxichong's blog</p>
       <i class="logo-line"></i>
     </a>
   </div>
@@ -125,7 +125,7 @@
 
         <div class="site-overview-wrap sidebar-panel">
           <div class="site-author animated" itemprop="author" itemscope itemtype="http://schema.org/Person">
-  <p class="site-author-name" itemprop="name">John Doe</p>
+  <p class="site-author-name" itemprop="name">senxichong</p>
   <div class="site-description" itemprop="description"></div>
 </div>
 <div class="site-state-wrap animated">
@@ -168,16 +168,16 @@
 
     <span hidden itemprop="author" itemscope itemtype="http://schema.org/Person">
       <meta itemprop="image" content="/images/avatar.gif">
-      <meta itemprop="name" content="John Doe">
+      <meta itemprop="name" content="senxichong">
     </span>
 
     <span hidden itemprop="publisher" itemscope itemtype="http://schema.org/Organization">
-      <meta itemprop="name" content="Hexo">
+      <meta itemprop="name" content="senxichong's blog">
       <meta itemprop="description" content="">
     </span>
 
     <span hidden itemprop="post" itemscope itemtype="http://schema.org/CreativeWork">
-      <meta itemprop="name" content="昨日以及今日发生的事件复盘 | Hexo">
+      <meta itemprop="name" content="昨日以及今日发生的事件复盘 | senxichong's blog">
       <meta itemprop="description" content="">
     </span>
       <header class="post-header">
@@ -195,6 +195,20 @@
       
 
       <time title="Created: 2024-11-25 00:00:00 / Modified: 22:14:58" itemprop="dateCreated datePublished" datetime="2024-11-25T00:00:00+08:00">2024-11-25</time>
+    </span>
+    <span class="post-meta-item">
+      <span class="post-meta-item-icon">
+        <i class="fas fa-map-marker-alt"></i>
+      </span>
+      <span class="post-meta-item-text">Venue:</span>
+      <span>College of Humannities,UCAS</span>
+    </span>
+    <span class="post-meta-item">
+      <span class="post-meta-item-icon">
+        <i class="fas fa-globe-asia"></i>
+      </span>
+      <span class="post-meta-item-text">Location:</span>
+      <span>Beijing, CN</span>
     </span>
 
   
@@ -258,7 +272,7 @@
     <span class="with-love">
       <i class="fa fa-heart"></i>
     </span>
-    <span class="author" itemprop="copyrightHolder">John Doe</span>
+    <span class="author" itemprop="copyrightHolder">senxichong</span>
   </div>
   <div class="powered-by">Powered by <a href="https://hexo.io/" rel="noopener" target="_blank">Hexo</a> & <a href="https://theme-next.js.org/muse/" rel="noopener" target="_blank">NexT.Muse</a>
   </div>
