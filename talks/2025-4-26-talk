@@ -144,13 +144,13 @@
   <nav class="site-state">
       <div class="site-state-item site-state-posts">
         <a href="/archives/">
-          <span class="site-state-item-count">33</span>
+          <span class="site-state-item-count">36</span>
           <span class="site-state-item-name">日志</span>
         </a>
       </div>
       <div class="site-state-item site-state-tags">
           <a href="/tags/">
-        <span class="site-state-item-count">8</span>
+        <span class="site-state-item-count">9</span>
         <span class="site-state-item-name">标签</span></a>
       </div>
   </nav>
@@ -289,6 +289,9 @@
                 </a>
             </div>
             <div class="post-nav-item">
+                <a href="/talks/2025-5-3-talk" rel="next" title="工业化比较">
+                  工业化比较 <i class="fa fa-angle-right"></i>
+                </a>
             </div>
           </div>
     </footer>
