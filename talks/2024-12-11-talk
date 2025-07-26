@@ -17,12 +17,12 @@
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.7.2/css/all.min.css" integrity="sha256-dABdfBfUoC8vJUBOwGVdm8L9qlMWaHTIfXt+7GnZCIo=" crossorigin="anonymous">
   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/3.1.1/animate.min.css" integrity="sha256-PR7ttpcvz8qrF57fur/yAx1qXMFJeJFiA6pSzWi0OIE=" crossorigin="anonymous">
 
-<script class="next-config" data-name="main" type="application/json">{"hostname":"example.com","root":"/","images":"/images","scheme":"Muse","darkmode":false,"version":"8.23.0","exturl":false,"sidebar":{"position":"left","width_expanded":320,"width_dual_column":240,"display":"post","padding":18,"offset":12},"hljswrap":true,"codeblock":{"theme":{"light":"default","dark":"stackoverflow-dark"},"prism":{"light":"prism","dark":"prism-dark"},"copy_button":{"enable":false,"style":null},"fold":{"enable":false,"height":500},"language":false},"bookmark":{"enable":false,"color":"#222","save":"auto"},"mediumzoom":false,"lazyload":false,"pangu":false,"comments":{"style":"tabs","active":null,"storage":true,"lazyload":false,"nav":null},"stickytabs":false,"motion":{"enable":true,"async":false,"duration":200,"transition":{"menu_item":"fadeInDown","post_block":"fadeIn","post_header":"fadeInDown","post_body":"fadeInDown","coll_header":"fadeInLeft","sidebar":"fadeInUp"}},"i18n":{"placeholder":"搜索...","empty":"没有找到任何搜索结果：${query}","hits_time":"找到 ${hits} 个搜索结果（用时 ${time} 毫秒）","hits":"找到 ${hits} 个搜索结果"}}</script><script src="/js/config.js" defer></script>
+<script class="next-config" data-name="main" type="application/json">{"hostname":"jerrylove.qzz.io","root":"/","images":"/images","scheme":"Muse","darkmode":false,"version":"8.23.0","exturl":false,"sidebar":{"position":"left","width_expanded":320,"width_dual_column":240,"display":"post","padding":18,"offset":12},"hljswrap":true,"codeblock":{"theme":{"light":"default","dark":"stackoverflow-dark"},"prism":{"light":"prism","dark":"prism-dark"},"copy_button":{"enable":false,"style":null},"fold":{"enable":false,"height":500},"language":false},"bookmark":{"enable":false,"color":"#222","save":"auto"},"mediumzoom":false,"lazyload":false,"pangu":false,"comments":{"style":"tabs","active":null,"storage":true,"lazyload":false,"nav":null},"stickytabs":false,"motion":{"enable":true,"async":false,"duration":200,"transition":{"menu_item":"fadeInDown","post_block":"fadeIn","post_header":"fadeInDown","post_body":"fadeInDown","coll_header":"fadeInLeft","sidebar":"fadeInUp"}},"i18n":{"placeholder":"搜索...","empty":"没有找到任何搜索结果：${query}","hits_time":"找到 ${hits} 个搜索结果（用时 ${time} 毫秒）","hits":"找到 ${hits} 个搜索结果"}}</script><script src="/js/config.js" defer></script>
 
     <meta name="description" content="现在耳机里面的是在加纳共和国离婚，歌词里那句你还爱我吗？真让人心碎，而且是再也回不到的那种结局，我在心里究竟爱没爱过，我没有办法说出来毕竟过去的经历让我不敢说。我错过了很多，过去了好久也没有办法遗忘。每每当我和别的女生出去的时候，我的思念便能够缓解一些，可是，这思念，这不甘，这感情的反扑，真的让人寝食难安。我就像个小丑一直在原地，苦苦等待，等待一个永远没有结果的结局。在过去和现在的交织的幻影中，才">
 <meta property="og:type" content="article">
 <meta property="og:title" content="听在加纳共和国离婚有感">
-<meta property="og:url" content="http://example.com/talks/2024-12-11-talk">
+<meta property="og:url" content="https://jerrylove.qzz.io/talks/2024-12-11-talk">
 <meta property="og:site_name" content="senxichong&#39;s blog">
 <meta property="og:description" content="现在耳机里面的是在加纳共和国离婚，歌词里那句你还爱我吗？真让人心碎，而且是再也回不到的那种结局，我在心里究竟爱没爱过，我没有办法说出来毕竟过去的经历让我不敢说。我错过了很多，过去了好久也没有办法遗忘。每每当我和别的女生出去的时候，我的思念便能够缓解一些，可是，这思念，这不甘，这感情的反扑，真的让人寝食难安。我就像个小丑一直在原地，苦苦等待，等待一个永远没有结果的结局。在过去和现在的交织的幻影中，才">
 <meta property="og:locale" content="zh_CN">
@@ -33,10 +33,10 @@
 <meta name="twitter:card" content="summary">
 
 
-<link rel="canonical" href="http://example.com/talks/2024-12-11-talk">
+<link rel="canonical" href="https://jerrylove.qzz.io/talks/2024-12-11-talk">
 
 
-<script class="next-config" data-name="page" type="application/json">{"sidebar":"","isHome":false,"isPost":true,"lang":"zh-CN","comments":true,"permalink":"http://example.com/talks/2024-12-11-talk","path":"/talks/2024-12-11-talk","title":"听在加纳共和国离婚有感"}</script>
+<script class="next-config" data-name="page" type="application/json">{"sidebar":"","isHome":false,"isPost":true,"lang":"zh-CN","comments":true,"permalink":"https://jerrylove.qzz.io/talks/2024-12-11-talk","path":"/talks/2024-12-11-talk","title":"听在加纳共和国离婚有感"}</script>
 
 <script class="next-config" data-name="calendar" type="application/json">""</script>
 <title>听在加纳共和国离婚有感 | senxichong's blog</title>
@@ -184,7 +184,7 @@
   
 
   <article itemscope itemtype="http://schema.org/Article" class="post-content" lang="zh-CN">
-    <link itemprop="mainEntityOfPage" href="http://example.com/talks/2024-12-11-talk">
+    <link itemprop="mainEntityOfPage" href="https://jerrylove.qzz.io/talks/2024-12-11-talk">
 
     <span hidden itemprop="author" itemscope itemtype="http://schema.org/Person">
       <meta itemprop="image" content="/images/avatar.png">

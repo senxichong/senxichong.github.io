@@ -17,12 +17,12 @@
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.7.2/css/all.min.css" integrity="sha256-dABdfBfUoC8vJUBOwGVdm8L9qlMWaHTIfXt+7GnZCIo=" crossorigin="anonymous">
   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/3.1.1/animate.min.css" integrity="sha256-PR7ttpcvz8qrF57fur/yAx1qXMFJeJFiA6pSzWi0OIE=" crossorigin="anonymous">
 
-<script class="next-config" data-name="main" type="application/json">{"hostname":"example.com","root":"/","images":"/images","scheme":"Muse","darkmode":false,"version":"8.23.0","exturl":false,"sidebar":{"position":"left","width_expanded":320,"width_dual_column":240,"display":"post","padding":18,"offset":12},"hljswrap":true,"codeblock":{"theme":{"light":"default","dark":"stackoverflow-dark"},"prism":{"light":"prism","dark":"prism-dark"},"copy_button":{"enable":false,"style":null},"fold":{"enable":false,"height":500},"language":false},"bookmark":{"enable":false,"color":"#222","save":"auto"},"mediumzoom":false,"lazyload":false,"pangu":false,"comments":{"style":"tabs","active":null,"storage":true,"lazyload":false,"nav":null},"stickytabs":false,"motion":{"enable":true,"async":false,"duration":200,"transition":{"menu_item":"fadeInDown","post_block":"fadeIn","post_header":"fadeInDown","post_body":"fadeInDown","coll_header":"fadeInLeft","sidebar":"fadeInUp"}},"i18n":{"placeholder":"搜索...","empty":"没有找到任何搜索结果：${query}","hits_time":"找到 ${hits} 个搜索结果（用时 ${time} 毫秒）","hits":"找到 ${hits} 个搜索结果"}}</script><script src="/js/config.js" defer></script>
+<script class="next-config" data-name="main" type="application/json">{"hostname":"jerrylove.qzz.io","root":"/","images":"/images","scheme":"Muse","darkmode":false,"version":"8.23.0","exturl":false,"sidebar":{"position":"left","width_expanded":320,"width_dual_column":240,"display":"post","padding":18,"offset":12},"hljswrap":true,"codeblock":{"theme":{"light":"default","dark":"stackoverflow-dark"},"prism":{"light":"prism","dark":"prism-dark"},"copy_button":{"enable":false,"style":null},"fold":{"enable":false,"height":500},"language":false},"bookmark":{"enable":false,"color":"#222","save":"auto"},"mediumzoom":false,"lazyload":false,"pangu":false,"comments":{"style":"tabs","active":null,"storage":true,"lazyload":false,"nav":null},"stickytabs":false,"motion":{"enable":true,"async":false,"duration":200,"transition":{"menu_item":"fadeInDown","post_block":"fadeIn","post_header":"fadeInDown","post_body":"fadeInDown","coll_header":"fadeInLeft","sidebar":"fadeInUp"}},"i18n":{"placeholder":"搜索...","empty":"没有找到任何搜索结果：${query}","hits_time":"找到 ${hits} 个搜索结果（用时 ${time} 毫秒）","hits":"找到 ${hits} 个搜索结果"}}</script><script src="/js/config.js" defer></script>
 
     <meta name="description" content="关于两次经历巨大差异的思考 ✨最近，我一直在思考一个重要的问题：为什么两次的经历差别会这么大？这不仅是一个小小的感慨，而是一个值得认真探究的话题。 究竟是什么变了？我觉得，这是一个很重要的问题。 可以说，第二次的我心如止水，完全没有了第一次的那种青涩与悸动。两段经历的差异，就像那时的生活和现在的生活，截然不同。  那时候的日子 🕰️那个时候，虽然生活很辛苦，但每天都有熟悉的人在身边。一起说话、聊">
 <meta property="og:type" content="article">
 <meta property="og:title" content="为什么两次有这么大的差别">
-<meta property="og:url" content="http://example.com/talks/2025-4-26-talk">
+<meta property="og:url" content="https://jerrylove.qzz.io/talks/2025-4-26-talk">
 <meta property="og:site_name" content="senxichong&#39;s blog">
 <meta property="og:description" content="关于两次经历巨大差异的思考 ✨最近，我一直在思考一个重要的问题：为什么两次的经历差别会这么大？这不仅是一个小小的感慨，而是一个值得认真探究的话题。 究竟是什么变了？我觉得，这是一个很重要的问题。 可以说，第二次的我心如止水，完全没有了第一次的那种青涩与悸动。两段经历的差异，就像那时的生活和现在的生活，截然不同。  那时候的日子 🕰️那个时候，虽然生活很辛苦，但每天都有熟悉的人在身边。一起说话、聊">
 <meta property="og:locale" content="zh_CN">
@@ -33,10 +33,10 @@
 <meta name="twitter:card" content="summary">
 
 
-<link rel="canonical" href="http://example.com/talks/2025-4-26-talk">
+<link rel="canonical" href="https://jerrylove.qzz.io/talks/2025-4-26-talk">
 
 
-<script class="next-config" data-name="page" type="application/json">{"sidebar":"","isHome":false,"isPost":true,"lang":"zh-CN","comments":true,"permalink":"http://example.com/talks/2025-4-26-talk","path":"/talks/2025-4-26-talk","title":"为什么两次有这么大的差别"}</script>
+<script class="next-config" data-name="page" type="application/json">{"sidebar":"","isHome":false,"isPost":true,"lang":"zh-CN","comments":true,"permalink":"https://jerrylove.qzz.io/talks/2025-4-26-talk","path":"/talks/2025-4-26-talk","title":"为什么两次有这么大的差别"}</script>
 
 <script class="next-config" data-name="calendar" type="application/json">""</script>
 <title>为什么两次有这么大的差别 | senxichong's blog</title>
@@ -185,7 +185,7 @@
   
 
   <article itemscope itemtype="http://schema.org/Article" class="post-content" lang="zh-CN">
-    <link itemprop="mainEntityOfPage" href="http://example.com/talks/2025-4-26-talk">
+    <link itemprop="mainEntityOfPage" href="https://jerrylove.qzz.io/talks/2025-4-26-talk">
 
     <span hidden itemprop="author" itemscope itemtype="http://schema.org/Person">
       <meta itemprop="image" content="/images/avatar.png">

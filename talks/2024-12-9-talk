@@ -17,12 +17,12 @@
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.7.2/css/all.min.css" integrity="sha256-dABdfBfUoC8vJUBOwGVdm8L9qlMWaHTIfXt+7GnZCIo=" crossorigin="anonymous">
   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/3.1.1/animate.min.css" integrity="sha256-PR7ttpcvz8qrF57fur/yAx1qXMFJeJFiA6pSzWi0OIE=" crossorigin="anonymous">
 
-<script class="next-config" data-name="main" type="application/json">{"hostname":"example.com","root":"/","images":"/images","scheme":"Muse","darkmode":false,"version":"8.23.0","exturl":false,"sidebar":{"position":"left","width_expanded":320,"width_dual_column":240,"display":"post","padding":18,"offset":12},"hljswrap":true,"codeblock":{"theme":{"light":"default","dark":"stackoverflow-dark"},"prism":{"light":"prism","dark":"prism-dark"},"copy_button":{"enable":false,"style":null},"fold":{"enable":false,"height":500},"language":false},"bookmark":{"enable":false,"color":"#222","save":"auto"},"mediumzoom":false,"lazyload":false,"pangu":false,"comments":{"style":"tabs","active":null,"storage":true,"lazyload":false,"nav":null},"stickytabs":false,"motion":{"enable":true,"async":false,"duration":200,"transition":{"menu_item":"fadeInDown","post_block":"fadeIn","post_header":"fadeInDown","post_body":"fadeInDown","coll_header":"fadeInLeft","sidebar":"fadeInUp"}},"i18n":{"placeholder":"搜索...","empty":"没有找到任何搜索结果：${query}","hits_time":"找到 ${hits} 个搜索结果（用时 ${time} 毫秒）","hits":"找到 ${hits} 个搜索结果"}}</script><script src="/js/config.js" defer></script>
+<script class="next-config" data-name="main" type="application/json">{"hostname":"jerrylove.qzz.io","root":"/","images":"/images","scheme":"Muse","darkmode":false,"version":"8.23.0","exturl":false,"sidebar":{"position":"left","width_expanded":320,"width_dual_column":240,"display":"post","padding":18,"offset":12},"hljswrap":true,"codeblock":{"theme":{"light":"default","dark":"stackoverflow-dark"},"prism":{"light":"prism","dark":"prism-dark"},"copy_button":{"enable":false,"style":null},"fold":{"enable":false,"height":500},"language":false},"bookmark":{"enable":false,"color":"#222","save":"auto"},"mediumzoom":false,"lazyload":false,"pangu":false,"comments":{"style":"tabs","active":null,"storage":true,"lazyload":false,"nav":null},"stickytabs":false,"motion":{"enable":true,"async":false,"duration":200,"transition":{"menu_item":"fadeInDown","post_block":"fadeIn","post_header":"fadeInDown","post_body":"fadeInDown","coll_header":"fadeInLeft","sidebar":"fadeInUp"}},"i18n":{"placeholder":"搜索...","empty":"没有找到任何搜索结果：${query}","hits_time":"找到 ${hits} 个搜索结果（用时 ${time} 毫秒）","hits":"找到 ${hits} 个搜索结果"}}</script><script src="/js/config.js" defer></script>
 
     <meta name="description" content="近来，已经快到学期末，我应该马上开始复习，要不然最后将那些事情堆在一起，就会让人发狂。让人措手不及，提前规划，提前准备，有条不紊，这才是取胜之道，而不是短期突击，而且最近我意识到需要加强有氧训练，分为一天大量训练，一天少量训练。这样才能减脂提升自己的形象。这很重要，至少在这个阶段，这对我很重要。还有一件事，所谓好风凭借力，送我上青云。时也，运也！不要在没有不要的事情身上浪费时间，比如和丁同学，完全">
 <meta property="og:type" content="article">
 <meta property="og:title" content="近期的情况汇总 ">
-<meta property="og:url" content="http://example.com/talks/2024-12-9-talk">
+<meta property="og:url" content="https://jerrylove.qzz.io/talks/2024-12-9-talk">
 <meta property="og:site_name" content="senxichong&#39;s blog">
 <meta property="og:description" content="近来，已经快到学期末，我应该马上开始复习，要不然最后将那些事情堆在一起，就会让人发狂。让人措手不及，提前规划，提前准备，有条不紊，这才是取胜之道，而不是短期突击，而且最近我意识到需要加强有氧训练，分为一天大量训练，一天少量训练。这样才能减脂提升自己的形象。这很重要，至少在这个阶段，这对我很重要。还有一件事，所谓好风凭借力，送我上青云。时也，运也！不要在没有不要的事情身上浪费时间，比如和丁同学，完全">
 <meta property="og:locale" content="zh_CN">
@@ -33,10 +33,10 @@
 <meta name="twitter:card" content="summary">
 
 
-<link rel="canonical" href="http://example.com/talks/2024-12-9-talk">
+<link rel="canonical" href="https://jerrylove.qzz.io/talks/2024-12-9-talk">
 
 
-<script class="next-config" data-name="page" type="application/json">{"sidebar":"","isHome":false,"isPost":true,"lang":"zh-CN","comments":true,"permalink":"http://example.com/talks/2024-12-9-talk","path":"/talks/2024-12-9-talk","title":"近期的情况汇总 "}</script>
+<script class="next-config" data-name="page" type="application/json">{"sidebar":"","isHome":false,"isPost":true,"lang":"zh-CN","comments":true,"permalink":"https://jerrylove.qzz.io/talks/2024-12-9-talk","path":"/talks/2024-12-9-talk","title":"近期的情况汇总 "}</script>
 
 <script class="next-config" data-name="calendar" type="application/json">""</script>
 <title>近期的情况汇总  | senxichong's blog</title>
@@ -184,7 +184,7 @@
   
 
   <article itemscope itemtype="http://schema.org/Article" class="post-content" lang="zh-CN">
-    <link itemprop="mainEntityOfPage" href="http://example.com/talks/2024-12-9-talk">
+    <link itemprop="mainEntityOfPage" href="https://jerrylove.qzz.io/talks/2024-12-9-talk">
 
     <span hidden itemprop="author" itemscope itemtype="http://schema.org/Person">
       <meta itemprop="image" content="/images/avatar.png">

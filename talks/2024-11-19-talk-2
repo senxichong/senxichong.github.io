@@ -17,12 +17,12 @@
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.7.2/css/all.min.css" integrity="sha256-dABdfBfUoC8vJUBOwGVdm8L9qlMWaHTIfXt+7GnZCIo=" crossorigin="anonymous">
   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/3.1.1/animate.min.css" integrity="sha256-PR7ttpcvz8qrF57fur/yAx1qXMFJeJFiA6pSzWi0OIE=" crossorigin="anonymous">
 
-<script class="next-config" data-name="main" type="application/json">{"hostname":"example.com","root":"/","images":"/images","scheme":"Muse","darkmode":false,"version":"8.23.0","exturl":false,"sidebar":{"position":"left","width_expanded":320,"width_dual_column":240,"display":"post","padding":18,"offset":12},"hljswrap":true,"codeblock":{"theme":{"light":"default","dark":"stackoverflow-dark"},"prism":{"light":"prism","dark":"prism-dark"},"copy_button":{"enable":false,"style":null},"fold":{"enable":false,"height":500},"language":false},"bookmark":{"enable":false,"color":"#222","save":"auto"},"mediumzoom":false,"lazyload":false,"pangu":false,"comments":{"style":"tabs","active":null,"storage":true,"lazyload":false,"nav":null},"stickytabs":false,"motion":{"enable":true,"async":false,"duration":200,"transition":{"menu_item":"fadeInDown","post_block":"fadeIn","post_header":"fadeInDown","post_body":"fadeInDown","coll_header":"fadeInLeft","sidebar":"fadeInUp"}},"i18n":{"placeholder":"搜索...","empty":"没有找到任何搜索结果：${query}","hits_time":"找到 ${hits} 个搜索结果（用时 ${time} 毫秒）","hits":"找到 ${hits} 个搜索结果"}}</script><script src="/js/config.js" defer></script>
+<script class="next-config" data-name="main" type="application/json">{"hostname":"jerrylove.qzz.io","root":"/","images":"/images","scheme":"Muse","darkmode":false,"version":"8.23.0","exturl":false,"sidebar":{"position":"left","width_expanded":320,"width_dual_column":240,"display":"post","padding":18,"offset":12},"hljswrap":true,"codeblock":{"theme":{"light":"default","dark":"stackoverflow-dark"},"prism":{"light":"prism","dark":"prism-dark"},"copy_button":{"enable":false,"style":null},"fold":{"enable":false,"height":500},"language":false},"bookmark":{"enable":false,"color":"#222","save":"auto"},"mediumzoom":false,"lazyload":false,"pangu":false,"comments":{"style":"tabs","active":null,"storage":true,"lazyload":false,"nav":null},"stickytabs":false,"motion":{"enable":true,"async":false,"duration":200,"transition":{"menu_item":"fadeInDown","post_block":"fadeIn","post_header":"fadeInDown","post_body":"fadeInDown","coll_header":"fadeInLeft","sidebar":"fadeInUp"}},"i18n":{"placeholder":"搜索...","empty":"没有找到任何搜索结果：${query}","hits_time":"找到 ${hits} 个搜索结果（用时 ${time} 毫秒）","hits":"找到 ${hits} 个搜索结果"}}</script><script src="/js/config.js" defer></script>
 
     <meta name="description" content="近期的一些事项: 最近最重要的学习便是机器学习，我学习的是台湾李老师的课程，非常清晰，易于理解，希望能有所收获。 这周末的舞会是一个机会，来缓解我面临的尴尬局面：自认为不凡，但是实践中没有战果来证明。 完成CA和OS两门课的预习，因为上课确实没听，也没有录像，在讲课这一点国科大远不如台湾大学，我不相信中国大陆的TOP3比不过一个省的顶尖大学，我們的教育確實有問題！！！（發自我的手機） 有时间把这个">
 <meta property="og:type" content="article">
 <meta property="og:title" content="生活杂谈">
-<meta property="og:url" content="http://example.com/talks/2024-11-19-talk-2">
+<meta property="og:url" content="https://jerrylove.qzz.io/talks/2024-11-19-talk-2">
 <meta property="og:site_name" content="senxichong&#39;s blog">
 <meta property="og:description" content="近期的一些事项: 最近最重要的学习便是机器学习，我学习的是台湾李老师的课程，非常清晰，易于理解，希望能有所收获。 这周末的舞会是一个机会，来缓解我面临的尴尬局面：自认为不凡，但是实践中没有战果来证明。 完成CA和OS两门课的预习，因为上课确实没听，也没有录像，在讲课这一点国科大远不如台湾大学，我不相信中国大陆的TOP3比不过一个省的顶尖大学，我們的教育確實有問題！！！（發自我的手機） 有时间把这个">
 <meta property="og:locale" content="zh_CN">
@@ -33,10 +33,10 @@
 <meta name="twitter:card" content="summary">
 
 
-<link rel="canonical" href="http://example.com/talks/2024-11-19-talk-2">
+<link rel="canonical" href="https://jerrylove.qzz.io/talks/2024-11-19-talk-2">
 
 
-<script class="next-config" data-name="page" type="application/json">{"sidebar":"","isHome":false,"isPost":true,"lang":"zh-CN","comments":true,"permalink":"http://example.com/talks/2024-11-19-talk-2","path":"/talks/2024-11-19-talk-2","title":"生活杂谈"}</script>
+<script class="next-config" data-name="page" type="application/json">{"sidebar":"","isHome":false,"isPost":true,"lang":"zh-CN","comments":true,"permalink":"https://jerrylove.qzz.io/talks/2024-11-19-talk-2","path":"/talks/2024-11-19-talk-2","title":"生活杂谈"}</script>
 
 <script class="next-config" data-name="calendar" type="application/json">""</script>
 <title>生活杂谈 | senxichong's blog</title>
@@ -185,7 +185,7 @@
   
 
   <article itemscope itemtype="http://schema.org/Article" class="post-content" lang="zh-CN">
-    <link itemprop="mainEntityOfPage" href="http://example.com/talks/2024-11-19-talk-2">
+    <link itemprop="mainEntityOfPage" href="https://jerrylove.qzz.io/talks/2024-11-19-talk-2">
 
     <span hidden itemprop="author" itemscope itemtype="http://schema.org/Person">
       <meta itemprop="image" content="/images/avatar.png">
