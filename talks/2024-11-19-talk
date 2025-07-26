@@ -265,13 +265,13 @@
 
           <div class="post-nav">
             <div class="post-nav-item">
-                <a href="/2020/07/11/2020-07-11-blog_info/" rel="prev" title="博客模板功能介绍">
-                  <i class="fa fa-angle-left"></i> 博客模板功能介绍
+                <a href="/talks/2024-11-19-talk-2" rel="prev" title="生活杂谈">
+                  <i class="fa fa-angle-left"></i> 生活杂谈
                 </a>
             </div>
             <div class="post-nav-item">
-                <a href="/talks/2024-11-19-talk-2" rel="next" title="生活杂谈">
-                  生活杂谈 <i class="fa fa-angle-right"></i>
+                <a href="/talks/2024-11-20-talk" rel="next" title="认识自己">
+                  认识自己 <i class="fa fa-angle-right"></i>
                 </a>
             </div>
           </div>
