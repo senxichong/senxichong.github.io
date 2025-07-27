@@ -143,7 +143,7 @@
   <nav class="site-state">
       <div class="site-state-item site-state-posts">
         <a href="/archives/">
-          <span class="site-state-item-count">37</span>
+          <span class="site-state-item-count">38</span>
           <span class="site-state-item-name">日志</span>
         </a>
       </div>
@@ -262,6 +262,9 @@
                 </a>
             </div>
             <div class="post-nav-item">
+                <a href="/talks/2025-7-27-talk" rel="next" title="一些现象的观察">
+                  一些现象的观察 <i class="fa fa-angle-right"></i>
+                </a>
             </div>
           </div>
     </footer>

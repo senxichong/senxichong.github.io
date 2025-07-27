@@ -19,24 +19,27 @@
 
 <script class="next-config" data-name="main" type="application/json">{"hostname":"jerrylove.qzz.io","root":"/","images":"/images","scheme":"Muse","darkmode":false,"version":"8.23.0","exturl":false,"sidebar":{"position":"left","width_expanded":320,"width_dual_column":240,"display":"post","padding":18,"offset":12},"hljswrap":true,"codeblock":{"theme":{"light":"default","dark":"stackoverflow-dark"},"prism":{"light":"prism","dark":"prism-dark"},"copy_button":{"enable":false,"style":null},"fold":{"enable":false,"height":500},"language":false},"bookmark":{"enable":false,"color":"#222","save":"auto"},"mediumzoom":false,"lazyload":false,"pangu":false,"comments":{"style":"tabs","active":null,"storage":true,"lazyload":false,"nav":null},"stickytabs":false,"motion":{"enable":true,"async":false,"duration":200,"transition":{"menu_item":"fadeInDown","post_block":"fadeIn","post_header":"fadeInDown","post_body":"fadeInDown","coll_header":"fadeInLeft","sidebar":"fadeInUp"}},"i18n":{"placeholder":"搜索...","empty":"没有找到任何搜索结果：${query}","hits_time":"找到 ${hits} 个搜索结果（用时 ${time} 毫秒）","hits":"找到 ${hits} 个搜索结果"}}</script><script src="/js/config.js" defer></script>
 
-    <meta name="description" content="希望你头戴簪花，一路走来，一路盛开">
-<meta property="og:type" content="website">
-<meta property="og:title" content="senxichong&#39;s blog">
-<meta property="og:url" content="https://jerrylove.qzz.io/tags/study-record/index.html">
+    <meta name="description" content="我来谈一谈我最近使用chatGPT时观察到的一些现象，也可能是所有的生成式语言大模型已经有的。一个事实就是这些大模型在你使用它的时候会潜在的收集你的信息并且上传到服务器。而中国人使用chatGPT时一定会被chatgpt收集信息，尤其是上传个人敏感信息的时候，chatgpt会默默记录下来，并且在以后的回答中可能会使用。这有极高的国家安全风险，尤其是涉及到。一些保密材料的时候。这些信息会极大的危害国">
+<meta property="og:type" content="article">
+<meta property="og:title" content="一些现象的观察">
+<meta property="og:url" content="https://jerrylove.qzz.io/talks/2025-7-27-talk">
 <meta property="og:site_name" content="senxichong&#39;s blog">
-<meta property="og:description" content="希望你头戴簪花，一路走来，一路盛开">
+<meta property="og:description" content="我来谈一谈我最近使用chatGPT时观察到的一些现象，也可能是所有的生成式语言大模型已经有的。一个事实就是这些大模型在你使用它的时候会潜在的收集你的信息并且上传到服务器。而中国人使用chatGPT时一定会被chatgpt收集信息，尤其是上传个人敏感信息的时候，chatgpt会默默记录下来，并且在以后的回答中可能会使用。这有极高的国家安全风险，尤其是涉及到。一些保密材料的时候。这些信息会极大的危害国">
 <meta property="og:locale" content="zh_CN">
+<meta property="article:published_time" content="2025-07-26T16:00:00.000Z">
+<meta property="article:modified_time" content="2025-07-27T16:35:04.937Z">
 <meta property="article:author" content="senxichong">
+<meta property="article:tag" content="reflection">
 <meta name="twitter:card" content="summary">
 
 
-<link rel="canonical" href="https://jerrylove.qzz.io/tags/study-record/">
+<link rel="canonical" href="https://jerrylove.qzz.io/talks/2025-7-27-talk">
 
 
-<script class="next-config" data-name="page" type="application/json">{"sidebar":"","isHome":false,"isPost":false,"lang":"zh-CN","comments":"","permalink":"","path":"tags/study-record/index.html","title":""}</script>
+<script class="next-config" data-name="page" type="application/json">{"sidebar":"","isHome":false,"isPost":true,"lang":"zh-CN","comments":true,"permalink":"https://jerrylove.qzz.io/talks/2025-7-27-talk","path":"/talks/2025-7-27-talk","title":"一些现象的观察"}</script>
 
 <script class="next-config" data-name="calendar" type="application/json">""</script>
-<title>标签: study record | senxichong's blog</title>
+<title>一些现象的观察 | senxichong's blog</title>
   
 
 
@@ -170,50 +173,112 @@
 
     </div>
 
-    <div class="main-inner tag posts-collapse">
+    <div class="main-inner post posts-expand">
 
 
   
+
+
+<div class="post-block">
   
   
-  <div class="post-block">
-    <div class="post-content">
-      <div class="collection-title">
-        <h1 class="collection-header">study record
-          <small>标签</small>
+
+  <article itemscope itemtype="http://schema.org/Article" class="post-content" lang="zh-CN">
+    <link itemprop="mainEntityOfPage" href="https://jerrylove.qzz.io/talks/2025-7-27-talk">
+
+    <span hidden itemprop="author" itemscope itemtype="http://schema.org/Person">
+      <meta itemprop="image" content="/images/avatar.png">
+      <meta itemprop="name" content="senxichong">
+    </span>
+
+    <span hidden itemprop="publisher" itemscope itemtype="http://schema.org/Organization">
+      <meta itemprop="name" content="senxichong's blog">
+      <meta itemprop="description" content="希望你头戴簪花，一路走来，一路盛开">
+    </span>
+
+    <span hidden itemprop="post" itemscope itemtype="http://schema.org/CreativeWork">
+      <meta itemprop="name" content="一些现象的观察 | senxichong's blog">
+      <meta itemprop="description" content="">
+    </span>
+      <header class="post-header">
+        <h1 class="post-title" itemprop="name headline">
+          一些现象的观察
         </h1>
-      </div>
 
-      
-    <div class="collection-year">
-      <span class="collection-header">2024</span>
+        <div class="post-meta-container">
+          <div class="post-meta">
+    <span class="post-meta-item">
+      <span class="post-meta-item-icon">
+        <i class="far fa-calendar"></i>
+      </span>
+      <span class="post-meta-item-text">发表于</span>
+
+      <time title="创建时间：2025-07-27 00:00:00" itemprop="dateCreated datePublished" datetime="2025-07-27T00:00:00+08:00">2025-07-27</time>
+    </span>
+    <span class="post-meta-item">
+      <span class="post-meta-item-icon">
+        <i class="fas fa-map-marker-alt"></i>
+      </span>
+      <span class="post-meta-item-text">Venue:</span>
+      <span>XJTU</span>
+    </span>
+    <span class="post-meta-item">
+      <span class="post-meta-item-icon">
+        <i class="fas fa-globe-asia"></i>
+      </span>
+      <span class="post-meta-item-text">Location:</span>
+      <span>CN</span>
+    </span>
+    <span class="post-meta-item">
+      <span class="post-meta-item-icon">
+        <i class="far fa-calendar-check"></i>
+      </span>
+      <span class="post-meta-item-text">更新于</span>
+      <time title="修改时间：2025-07-28 00:35:04" itemprop="dateModified" datetime="2025-07-28T00:35:04+08:00">2025-07-28</time>
+    </span>
+
+  
+</div>
+
+        </div>
+      </header>
+
+    
+    
+    
+    <div class="post-body" itemprop="articleBody"><p>我来谈一谈我最近使用chatGPT时观察到的一些现象，也可能是所有的生成式语言大模型已经有的。一个事实就是这些大模型在你使用它的时候会潜在的收集你的信息并且上传到服务器。而中国人使用chatGPT时一定会被chatgpt收集信息，尤其是上传个人敏感信息的时候，chatgpt会默默记录下来，并且在以后的回答中可能会使用。这有极高的国家安全风险，尤其是涉及到。一些保密材料的时候。这些信息会极大的危害国家安全。中国政府采取的保密措施是很严格的，比如说涉密信息不上网，这个制度就体现对于操作系统无法控制的情况下，中国如何应对情报战争，用最原始的土方法，断网。</p>
+<p>这种方法无论好坏，我觉得有效，不然国家安全部门不会这么大张旗鼓地推广。<br>我在怀柔某研究所参观的时候就发现，电脑上有联网电脑不涉密。相关的信息，并且是黄色标语十分醒目。</p>
+
     </div>
 
-  <article itemscope itemtype="http://schema.org/Article">
-    <header class="post-header">
-      <div class="post-meta-container">
-        <time itemprop="dateCreated"
-              datetime="2024-11-19T00:00:00+08:00"
-              content="2024-11-19">
-          11-19
-        </time>
-      </div>
+    
+    
+    
 
-      <div class="post-title">
-          <a class="post-title-link" href="/talks/2024-11-19-talk" itemprop="url">
-            <span itemprop="name">Pytorch learning record</span>
-          </a>
-      </div>
+    <footer class="post-footer">
+          <div class="post-tags">
+              <a href="/tags/reflection/" rel="tag"># reflection</a>
+          </div>
 
-      
-    </header>
+        
+
+          <div class="post-nav">
+            <div class="post-nav-item">
+                <a href="/talks/2025-7-26-talk" rel="prev" title="个人域名配置">
+                  <i class="fa fa-angle-left"></i> 个人域名配置
+                </a>
+            </div>
+            <div class="post-nav-item">
+            </div>
+          </div>
+    </footer>
   </article>
+</div>
 
-    </div>
-  </div>
-  
-  
-  
+
+
+
+
 
 </div>
   </main>
