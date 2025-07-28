@@ -144,7 +144,7 @@
   <nav class="site-state">
       <div class="site-state-item site-state-posts">
         <a href="/archives/">
-          <span class="site-state-item-count">39</span>
+          <span class="site-state-item-count">40</span>
           <span class="site-state-item-name">日志</span>
         </a>
       </div>
@@ -269,13 +269,13 @@
 
           <div class="post-nav">
             <div class="post-nav-item">
-                <a href="/talks/2024-11-19-talk" rel="prev" title="Pytorch learning record">
-                  <i class="fa fa-angle-left"></i> Pytorch learning record
+                <a href="/2020/07/11/2020-07-11-blog_info/" rel="prev" title="博客模板功能介绍">
+                  <i class="fa fa-angle-left"></i> 博客模板功能介绍
                 </a>
             </div>
             <div class="post-nav-item">
-                <a href="/talks/2024-11-20-talk" rel="next" title="认识自己">
-                  认识自己 <i class="fa fa-angle-right"></i>
+                <a href="/talks/2024-11-19-talk" rel="next" title="Pytorch learning record">
+                  Pytorch learning record <i class="fa fa-angle-right"></i>
                 </a>
             </div>
           </div>
