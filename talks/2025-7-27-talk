@@ -143,13 +143,13 @@
   <nav class="site-state">
       <div class="site-state-item site-state-posts">
         <a href="/archives/">
-          <span class="site-state-item-count">38</span>
+          <span class="site-state-item-count">39</span>
           <span class="site-state-item-name">日志</span>
         </a>
       </div>
       <div class="site-state-item site-state-tags">
           <a href="/tags/">
-        <span class="site-state-item-count">10</span>
+        <span class="site-state-item-count">11</span>
         <span class="site-state-item-name">标签</span></a>
       </div>
   </nav>
@@ -264,8 +264,8 @@
 
           <div class="post-nav">
             <div class="post-nav-item">
-                <a href="/talks/2025-7-26-talk" rel="prev" title="个人域名配置">
-                  <i class="fa fa-angle-left"></i> 个人域名配置
+                <a href="/talks/2025-7-28-talk" rel="prev" title="生活一些琐碎">
+                  <i class="fa fa-angle-left"></i> 生活一些琐碎
                 </a>
             </div>
             <div class="post-nav-item">
