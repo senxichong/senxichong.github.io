@@ -2,6 +2,15 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://jerrylove.qzz.io/talks/2025-8-1-1-talk</loc>
+    
+    <lastmod>2025-08-01</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://jerrylove.qzz.io/talks/2025-8-1-talk</loc>
     
     <lastmod>2025-08-01</lastmod>
@@ -353,7 +362,7 @@
   </url>
   
   <url>
-    <loc>https://jerrylove.qzz.io/2016/10/14/2016-10-14-jekyll_tutorials1/</loc>
+    <loc>https://jerrylove.qzz.io/2016/11/20/2016-11-20-markdownTool/</loc>
     
     <lastmod>2024-11-22</lastmod>
     
@@ -362,7 +371,7 @@
   </url>
   
   <url>
-    <loc>https://jerrylove.qzz.io/2016/11/20/2016-11-20-markdownTool/</loc>
+    <loc>https://jerrylove.qzz.io/2016/10/14/2016-10-14-jekyll_tutorials1/</loc>
     
     <lastmod>2024-11-22</lastmod>
     
@@ -405,14 +414,14 @@
   </url>
   
   <url>
-    <loc>https://jerrylove.qzz.io/tags/jekyll/</loc>
+    <loc>https://jerrylove.qzz.io/tags/markdown/</loc>
     <lastmod>2025-08-01</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>https://jerrylove.qzz.io/tags/markdown/</loc>
+    <loc>https://jerrylove.qzz.io/tags/jekyll/</loc>
     <lastmod>2025-08-01</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
