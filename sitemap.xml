@@ -2,6 +2,24 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://jerrylove.qzz.io/talks/2025-8-3-talk</loc>
+    
+    <lastmod>2025-08-03</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://jerrylove.qzz.io/talks/2025-8-2-talk</loc>
+    
+    <lastmod>2025-08-03</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://jerrylove.qzz.io/talks/2025-8-1-1-talk</loc>
     
     <lastmod>2025-08-01</lastmod>
@@ -362,7 +380,7 @@
   </url>
   
   <url>
-    <loc>https://jerrylove.qzz.io/2016/11/20/2016-11-20-markdownTool/</loc>
+    <loc>https://jerrylove.qzz.io/2016/10/14/2016-10-14-jekyll_tutorials1/</loc>
     
     <lastmod>2024-11-22</lastmod>
     
@@ -371,7 +389,7 @@
   </url>
   
   <url>
-    <loc>https://jerrylove.qzz.io/2016/10/14/2016-10-14-jekyll_tutorials1/</loc>
+    <loc>https://jerrylove.qzz.io/2016/11/20/2016-11-20-markdownTool/</loc>
     
     <lastmod>2024-11-22</lastmod>
     
@@ -400,7 +418,7 @@
 
   <url>
     <loc>https://jerrylove.qzz.io/</loc>
-    <lastmod>2025-08-01</lastmod>
+    <lastmod>2025-08-03</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
@@ -408,84 +426,84 @@
   
   <url>
     <loc>https://jerrylove.qzz.io/tags/hexo/</loc>
-    <lastmod>2025-08-01</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://jerrylove.qzz.io/tags/markdown/</loc>
-    <lastmod>2025-08-01</lastmod>
+    <lastmod>2025-08-03</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://jerrylove.qzz.io/tags/jekyll/</loc>
-    <lastmod>2025-08-01</lastmod>
+    <lastmod>2025-08-03</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://jerrylove.qzz.io/tags/markdown/</loc>
+    <lastmod>2025-08-03</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://jerrylove.qzz.io/tags/life/</loc>
-    <lastmod>2025-08-01</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://jerrylove.qzz.io/tags/study-record/</loc>
-    <lastmod>2025-08-01</lastmod>
+    <lastmod>2025-08-03</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://jerrylove.qzz.io/tags/reflection/</loc>
-    <lastmod>2025-08-01</lastmod>
+    <lastmod>2025-08-03</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://jerrylove.qzz.io/tags/study-record/</loc>
+    <lastmod>2025-08-03</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://jerrylove.qzz.io/tags/talk/</loc>
-    <lastmod>2025-08-01</lastmod>
+    <lastmod>2025-08-03</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://jerrylove.qzz.io/tags/research/</loc>
-    <lastmod>2025-08-01</lastmod>
+    <lastmod>2025-08-03</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://jerrylove.qzz.io/tags/daliy/</loc>
-    <lastmod>2025-08-01</lastmod>
+    <lastmod>2025-08-03</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://jerrylove.qzz.io/tags/daily/</loc>
-    <lastmod>2025-08-01</lastmod>
+    <lastmod>2025-08-03</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://jerrylove.qzz.io/tags/letter/</loc>
-    <lastmod>2025-08-01</lastmod>
+    <lastmod>2025-08-03</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://jerrylove.qzz.io/tags/featured/</loc>
-    <lastmod>2025-08-01</lastmod>
+    <lastmod>2025-08-03</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
