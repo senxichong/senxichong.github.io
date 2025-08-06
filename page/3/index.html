@@ -140,13 +140,13 @@
   <nav class="site-state">
       <div class="site-state-item site-state-posts">
         <a href="/archives/">
-          <span class="site-state-item-count">45</span>
+          <span class="site-state-item-count">47</span>
           <span class="site-state-item-name">日志</span>
         </a>
       </div>
       <div class="site-state-item site-state-tags">
           <a href="/tags/">
-        <span class="site-state-item-count">12</span>
+        <span class="site-state-item-count">13</span>
         <span class="site-state-item-name">标签</span></a>
       </div>
   </nav>
@@ -171,6 +171,192 @@
     </div>
 
     <div class="main-inner index posts-expand">
+
+    
+
+
+<div class="post-block">
+  
+  
+
+  <article itemscope itemtype="http://schema.org/Article" class="post-content" lang="">
+    <link itemprop="mainEntityOfPage" href="https://jerrylove.qzz.io/2025/04/18/2016-06-12-HEXO_Advanced/">
+
+    <span hidden itemprop="author" itemscope itemtype="http://schema.org/Person">
+      <meta itemprop="image" content="/images/avatar.png">
+      <meta itemprop="name" content="senxichong">
+    </span>
+
+    <span hidden itemprop="publisher" itemscope itemtype="http://schema.org/Organization">
+      <meta itemprop="name" content="senxichong's blog">
+      <meta itemprop="description" content="希望你头戴簪花，一路走来，一路盛开">
+    </span>
+
+    <span hidden itemprop="post" itemscope itemtype="http://schema.org/CreativeWork">
+      <meta itemprop="name" content=" | senxichong's blog">
+      <meta itemprop="description" content="">
+    </span>
+      <header class="post-header">
+        <h2 class="post-title" itemprop="name headline">
+          <a href="/2025/04/18/2016-06-12-HEXO_Advanced/" class="post-title-link" itemprop="url">HEXO进阶</a>
+        </h2>
+
+        <div class="post-meta-container">
+          <div class="post-meta">
+    <span class="post-meta-item">
+      <span class="post-meta-item-icon">
+        <i class="far fa-calendar"></i>
+      </span>
+      <span class="post-meta-item-text">发表于</span>
+
+      <time title="创建时间：2025-04-18 13:29:41" itemprop="dateCreated datePublished" datetime="2025-04-18T13:29:41+08:00">2025-04-18</time>
+    </span>
+    <span class="post-meta-item">
+      <span class="post-meta-item-icon">
+        <i class="far fa-calendar-check"></i>
+      </span>
+      <span class="post-meta-item-text">更新于</span>
+      <time title="修改时间：2024-11-22 22:59:57" itemprop="dateModified" datetime="2024-11-22T22:59:57+08:00">2024-11-22</time>
+    </span>
+
+  
+</div>
+
+        </div>
+      </header>
+
+    
+    
+    
+    <div class="post-body" itemprop="articleBody">
+          <p>HEXO接近是最近有一些朋友提出的问题，然后我做了总结，如果你也在使用HEXO，不妨看看，应该会有些帮助。</p>
+<ul>
+<li>1、博客部署样式出问题了怎么办？</li>
+<li>2、电脑重装或者误删了本地博客怎么办？</li>
+<li>3、想使用两台电脑写博客怎么办？</li>
+<li>4、为何使用百度搜不到我的博客？</li>
+</ul>
+<h3 id="使用Jekyll解决前三个问题。"><a href="#使用Jekyll解决前三个问题。" class="headerlink" title="使用Jekyll解决前三个问题。"></a>使用Jekyll解决前三个问题。</h3><p>不得不说 <code>Jekyll</code> 确实可以解决我上面三个问题, 因为 <code>Jekyll</code> 是直接把Markdown格式的文章直接放在github仓库里的, 相当于直接用git来管理博客了, <code>Github</code> 官方也很推荐 <code>Jekyll</code> 。 你可以先看下 <code>Jekyll</code> 搭建博客的<a href="voyagelab.github.io">voyagelab</a>, <a target="_blank" rel="noopener" href="https://github.com/voyagelab/voyagelab.github.io">github地址</a>, 当然了这只是很普通的, Jekyll 也有很多主题可以选择的, 更详细的请看<a target="_blank" rel="noopener" href="http://jekyll.bootcss.com/">Jekyll中文文档</a>、<a target="_blank" rel="noopener" href="https://jekyllrb.com/">Jekyll英文文档</a>、<a target="_blank" rel="noopener" href="http://jekyllthemes.org/">Jekyll主题列表</a>。<br>在 <code>Jekyll</code> 上逛了一个星期的我又回到了 <code>Hexo</code> , 发现 目前 <code>Jekyll</code> 对主题和一些插件的支持相对 <code>Hexo</code> 来说, 没那么友好, 可能有一些其它的方法只是我没找到而已,关于 <code>Jekyll</code> 搭建博客就介绍到这, 如果有问题的话可以评论, 或者联系我。</p>
+<h3 id="使用Hexo解决上面前三个问题"><a href="#使用Hexo解决上面前三个问题" class="headerlink" title="使用Hexo解决上面前三个问题"></a>使用Hexo解决上面前三个问题</h3><p>是的, 我大<code>Hexo</code>同样可以解决上面三个问题, 那就是使用git。关于如何使用 <code>Hexo</code> 搭建博客请看我另一篇文章<a target="_blank" rel="noopener" href="http://www.leopardpan.cn/2015/08/25/HEXO%E6%90%AD%E5%BB%BA%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2/">HEXO搭建个人博客</a>, 如果搭建的过程中出现了问题, 我们可以交流交流。现在我假设你已经能基本使用 <code>Hexo</code> 了, 接下来就看看如何来管理博客。</p>
+<h2 id="使用git管理博客"><a href="#使用git管理博客" class="headerlink" title="使用git管理博客"></a>使用git管理博客</h2><p><a target="_blank" rel="noopener" href="https://github.com/leopardpan/Blog-Growing">Blog-Growing</a>是我管理博客的仓库地址。结构大致是:</p>
+<blockquote>
+<p>– Blog-Growing<br>　　|– .git<br>　　|– .gitignore<br>　　|– Hexo<br>　　　　|   ..<br>　　　　|   ..<br>　　　　|   整个博客的配置信息    </p>
+</blockquote>
+<p>你可以把我的的<a target="_blank" rel="noopener" href="https://github.com/leopardpan/Blog-Growing">Blog-Growing</a> clone下来, 看看一些基本配置是怎么配置的。需要提醒的是, <code>要把主题下的.git给删除掉</code> , 当然了你也可以使用 <code>git submodule</code> 来管理, 具体的管理方法我这里就不做多的介绍了, 想了解的话可以私信我。<br>上面的过程基本做完后, 怎么来解决我开篇提的前三个问题了。</p>
+<h3 id="具体实现"><a href="#具体实现" class="headerlink" title="具体实现:"></a>具体实现:</h3><p><strong>一：家里电脑使用博客</strong><br>　　建立git远端仓库管理博客,并使用家里的电脑把本地博客的配置推送到远端仓库。<br><strong>二：公司电脑使用博客</strong><br>　　到了公司只需要执行<code>sudo npm install -g hexo</code>,然后cd到你的博客目录下,如我cd 到Hexo目录下, 然后执行 <code>hexo server</code> 就可以在本地预览博客了。<br><strong>三：使用Git保存</strong><br>　　修改好博客后记得先使用git来提交下, 即使下次把博客的样式修改坏了, 也可以使用 <code>git reset --hard</code> 来回退。如: 我cd 到 <code>Blog-Growing</code> 目录下使用git提交。<br><strong>四：博客提交</strong><br>　　1、修改好的博客使用 <code>hexo d</code> 展示到博客页上。<br>　　2、git push 整个本地博客。    </p>
+<p><strong>提示:</strong> 在这里 <code>git</code> 仅仅只是用户做博客的版本管理的, 博客的样式修改、基本部署还是使用 <code>hexo</code> 来操作的。</p>
+<h2 id="让百度能搜索到你的博客"><a href="#让百度能搜索到你的博客" class="headerlink" title="让百度能搜索到你的博客"></a>让百度能搜索到你的博客</h2><h3 id="为什么要使用百度搜索？"><a href="#为什么要使用百度搜索？" class="headerlink" title="为什么要使用百度搜索？"></a>为什么要使用百度搜索？</h3><p>　　有人可能会说作为一个开发人员, 你不会用 <code>Google</code> 啊。 是的, Google是能搜到我们搭建在 <code>Github Page</code> 的博客, 会用<code>Google</code> 也是一个开发人员必备技能之一。但是, 我们生活在天朝, 所以百度还是总有会用到的时候, 或者是你想让更多的天朝人能搜到你。</p>
+<h3 id="为什么使用百度搜索不到-Github-Page-上的博客？"><a href="#为什么使用百度搜索不到-Github-Page-上的博客？" class="headerlink" title="为什么使用百度搜索不到 Github Page 上的博客？"></a>为什么使用百度搜索不到 Github Page 上的博客？</h3><p>有人联系过 Github Support 部门 , 给出大致的意思就是: 百度爬虫爬得太猛烈，已经对很多 Github 用户造成了问题。所以 Github 将禁止百度爬虫的爬取。    </p>
+<h3 id="如何让百度能搜索你的博客"><a href="#如何让百度能搜索你的博客" class="headerlink" title="如何让百度能搜索你的博客?"></a>如何让百度能搜索你的博客?</h3><p>　　根据上面说的, 目前发现只是Github Page禁止了百度搜索, 所以让百度能搜索到你的博客还是有一些方法的。例如:</p>
+<ul>
+<li>自己搞个VPS,博客部署在VPS上。</li>
+<li>博客部署 <code>Coding.net</code> 上, <code>GitCafe</code>已经合并到 <code>Coding</code> 。<br>我使用的是第二种方法, 博客部署在 <code>Coding.net</code> 上也相对简单些。</li>
+</ul>
+<h4 id="在Coding上部署你的博客。"><a href="#在Coding上部署你的博客。" class="headerlink" title="在Coding上部署你的博客。"></a>在Coding上部署你的博客。</h4><p>　　Coding同样支持Hexo、Jekyll等博客的部署, Coding 跟Github还是挺像的,而且是中文。 同样的在Coding里面建一个项目,项目名字跟你的用户名一样,这里我就不啰嗦了, 说几个需要注意的地方:<br><strong>注意一:</strong><br>　　在<code>Coding Page</code> 上部署博客,需要把博客推送到<code>coding-pages </code> 分支上, 分支名字是固定的。<br><strong>注意二:</strong><br>　　<code>Coding Page</code> 不支持自定义CNAME, 你需要点击到Page模块,然后添加一个域名来绑定。   </p>
+<p>更详细的请看<a target="_blank" rel="noopener" href="https://coding.net/help/doc/pages/index.html">Coding Pages 官网介绍</a>.     </p>
+<p>参考文章:<br><a target="_blank" rel="noopener" href="http://jerryzou.com/posts/feasibility-of-allowing-baiduSpider-for-Github-Pages/">解决 Github Pages 禁止百度爬虫的方法与可行性分析</a></p>
+<br>
+
+<p>转载请注明：<a target="_blank" rel="noopener" href="http://leopardpan.cn/">潘柏信的博客</a> » <a target="_blank" rel="noopener" href="http://leopardpan.cn/2016/06/HEXO_Advanced/">点击阅读原文</a></p>
+
+      
+    </div>
+
+    
+    
+    
+
+    <footer class="post-footer">
+        <div class="post-eof"></div>
+      
+    </footer>
+  </article>
+</div>
+
+
+
+
+    
+
+
+<div class="post-block">
+  
+  
+
+  <article itemscope itemtype="http://schema.org/Article" class="post-content" lang="">
+    <link itemprop="mainEntityOfPage" href="https://jerrylove.qzz.io/2025/04/18/about/">
+
+    <span hidden itemprop="author" itemscope itemtype="http://schema.org/Person">
+      <meta itemprop="image" content="/images/avatar.png">
+      <meta itemprop="name" content="senxichong">
+    </span>
+
+    <span hidden itemprop="publisher" itemscope itemtype="http://schema.org/Organization">
+      <meta itemprop="name" content="senxichong's blog">
+      <meta itemprop="description" content="希望你头戴簪花，一路走来，一路盛开">
+    </span>
+
+    <span hidden itemprop="post" itemscope itemtype="http://schema.org/CreativeWork">
+      <meta itemprop="name" content=" | senxichong's blog">
+      <meta itemprop="description" content="">
+    </span>
+      <header class="post-header">
+        <h2 class="post-title" itemprop="name headline">
+          <a href="/2025/04/18/about/" class="post-title-link" itemprop="url">欢迎</a>
+        </h2>
+
+        <div class="post-meta-container">
+          <div class="post-meta">
+    <span class="post-meta-item">
+      <span class="post-meta-item-icon">
+        <i class="far fa-calendar"></i>
+      </span>
+      <span class="post-meta-item-text">发表于</span>
+      
+
+      <time title="创建时间：2025-04-18 13:11:46 / 修改时间：16:25:35" itemprop="dateCreated datePublished" datetime="2025-04-18T13:11:46+08:00">2025-04-18</time>
+    </span>
+
+  
+</div>
+
+        </div>
+      </header>
+
+    
+    
+    
+    <div class="post-body" itemprop="articleBody">
+          <p>Welcome to <a target="_blank" rel="noopener" href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a target="_blank" rel="noopener" href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a target="_blank" rel="noopener" href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a target="_blank" rel="noopener" href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p>
+<h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo new <span class="string">&quot;My New Post&quot;</span></span><br></pre></td></tr></table></figure>
+
+<p>More info: <a target="_blank" rel="noopener" href="https://hexo.io/docs/writing.html">Writing</a></p>
+<h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure>
+
+<p>More info: <a target="_blank" rel="noopener" href="https://hexo.io/docs/server.html">Server</a></p>
+<h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure>
+
+<p>More info: <a target="_blank" rel="noopener" href="https://hexo.io/docs/generating.html">Generating</a></p>
+<h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure>
+
+<p>More info: <a target="_blank" rel="noopener" href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>
+
+      
+    </div>
+
+    
+    
+    
+
+    <footer class="post-footer">
+        <div class="post-eof"></div>
+      
+    </footer>
+  </article>
+</div>
+
+
+
 
     
 
@@ -888,187 +1074,6 @@
     <div class="post-body" itemprop="articleBody">
           <p>对于危机的处理应该是经常反思的方向之一，这一部分非常重要，因为这是对于以后的人生旅途十分关键的，关键时刻能够发挥超过一般人的想象重要作用，我称之为“关键一招”<br>今天我在北京市分行办卡，但是手机突然死机，我脑子中的方案是找人帮忙，但是没有分清核心需求，我只需要回到玉泉路就可以了，但是我的方案是找人过来再和我回去，这就是人在危机的时候，往往会犯的错误的，希望先抱团，再和团体做决策，这种本能是人类的演化出来的，我无意责怪，但是确实不是最优解。</p>
 <p>所以在这种情况下，最优解是先冷静下来，然后再去做决策，</p>
-
-      
-    </div>
-
-    
-    
-    
-
-    <footer class="post-footer">
-        <div class="post-eof"></div>
-      
-    </footer>
-  </article>
-</div>
-
-
-
-
-    
-
-
-<div class="post-block">
-  
-  
-
-  <article itemscope itemtype="http://schema.org/Article" class="post-content" lang="">
-    <link itemprop="mainEntityOfPage" href="https://jerrylove.qzz.io/talks/2024-12-11-talk">
-
-    <span hidden itemprop="author" itemscope itemtype="http://schema.org/Person">
-      <meta itemprop="image" content="/images/avatar.png">
-      <meta itemprop="name" content="senxichong">
-    </span>
-
-    <span hidden itemprop="publisher" itemscope itemtype="http://schema.org/Organization">
-      <meta itemprop="name" content="senxichong's blog">
-      <meta itemprop="description" content="希望你头戴簪花，一路走来，一路盛开">
-    </span>
-
-    <span hidden itemprop="post" itemscope itemtype="http://schema.org/CreativeWork">
-      <meta itemprop="name" content=" | senxichong's blog">
-      <meta itemprop="description" content="">
-    </span>
-      <header class="post-header">
-        <h2 class="post-title" itemprop="name headline">
-          <a href="/talks/2024-12-11-talk" class="post-title-link" itemprop="url">听在加纳共和国离婚有感</a>
-        </h2>
-
-        <div class="post-meta-container">
-          <div class="post-meta">
-    <span class="post-meta-item">
-      <span class="post-meta-item-icon">
-        <i class="far fa-calendar"></i>
-      </span>
-      <span class="post-meta-item-text">发表于</span>
-
-      <time title="创建时间：2024-12-11 00:00:00" itemprop="dateCreated datePublished" datetime="2024-12-11T00:00:00+08:00">2024-12-11</time>
-    </span>
-    <span class="post-meta-item">
-      <span class="post-meta-item-icon">
-        <i class="fas fa-map-marker-alt"></i>
-      </span>
-      <span class="post-meta-item-text">Venue:</span>
-      <span>College of Humannities,UCAS</span>
-    </span>
-    <span class="post-meta-item">
-      <span class="post-meta-item-icon">
-        <i class="fas fa-globe-asia"></i>
-      </span>
-      <span class="post-meta-item-text">Location:</span>
-      <span>Beijing, CN</span>
-    </span>
-    <span class="post-meta-item">
-      <span class="post-meta-item-icon">
-        <i class="far fa-calendar-check"></i>
-      </span>
-      <span class="post-meta-item-text">更新于</span>
-      <time title="修改时间：2025-04-22 11:48:49" itemprop="dateModified" datetime="2025-04-22T11:48:49+08:00">2025-04-22</time>
-    </span>
-
-  
-</div>
-
-        </div>
-      </header>
-
-    
-    
-    
-    <div class="post-body" itemprop="articleBody">
-          <p>现在耳机里面的是在加纳共和国离婚，歌词里那句你还爱我吗？真让人心碎，而且是再也回不到的那种结局，我在心里究竟爱没爱过，我没有办法说出来毕竟过去的经历让我不敢说。我错过了很多，过去了好久也没有办法遗忘。每每当我和别的女生出去的时候，我的思念便能够缓解一些，可是，这思念，这不甘，这感情的反扑，真的让人寝食难安。我就像个小丑一直在原地，苦苦等待，等待一个永远没有结果的结局。在过去和现在的交织的幻影中，才能得到一些缓和。<br>早知如此，我会不会后悔？？<br>这是个我不能回答的问题！</p>
-<p>我究竟是谁？还是2022的自己吗？不是了，因为已经2024，马上就会2025，希望能够快乐的结束这个2024。</p>
-
-      
-    </div>
-
-    
-    
-    
-
-    <footer class="post-footer">
-        <div class="post-eof"></div>
-      
-    </footer>
-  </article>
-</div>
-
-
-
-
-    
-
-
-<div class="post-block">
-  
-  
-
-  <article itemscope itemtype="http://schema.org/Article" class="post-content" lang="">
-    <link itemprop="mainEntityOfPage" href="https://jerrylove.qzz.io/talks/2024-12-10-talk">
-
-    <span hidden itemprop="author" itemscope itemtype="http://schema.org/Person">
-      <meta itemprop="image" content="/images/avatar.png">
-      <meta itemprop="name" content="senxichong">
-    </span>
-
-    <span hidden itemprop="publisher" itemscope itemtype="http://schema.org/Organization">
-      <meta itemprop="name" content="senxichong's blog">
-      <meta itemprop="description" content="希望你头戴簪花，一路走来，一路盛开">
-    </span>
-
-    <span hidden itemprop="post" itemscope itemtype="http://schema.org/CreativeWork">
-      <meta itemprop="name" content=" | senxichong's blog">
-      <meta itemprop="description" content="">
-    </span>
-      <header class="post-header">
-        <h2 class="post-title" itemprop="name headline">
-          <a href="/talks/2024-12-10-talk" class="post-title-link" itemprop="url">近期的情况汇总 </a>
-        </h2>
-
-        <div class="post-meta-container">
-          <div class="post-meta">
-    <span class="post-meta-item">
-      <span class="post-meta-item-icon">
-        <i class="far fa-calendar"></i>
-      </span>
-      <span class="post-meta-item-text">发表于</span>
-
-      <time title="创建时间：2024-12-10 00:00:00" itemprop="dateCreated datePublished" datetime="2024-12-10T00:00:00+08:00">2024-12-10</time>
-    </span>
-    <span class="post-meta-item">
-      <span class="post-meta-item-icon">
-        <i class="fas fa-map-marker-alt"></i>
-      </span>
-      <span class="post-meta-item-text">Venue:</span>
-      <span>College of Humannities,UCAS</span>
-    </span>
-    <span class="post-meta-item">
-      <span class="post-meta-item-icon">
-        <i class="fas fa-globe-asia"></i>
-      </span>
-      <span class="post-meta-item-text">Location:</span>
-      <span>Beijing, CN</span>
-    </span>
-    <span class="post-meta-item">
-      <span class="post-meta-item-icon">
-        <i class="far fa-calendar-check"></i>
-      </span>
-      <span class="post-meta-item-text">更新于</span>
-      <time title="修改时间：2025-04-22 11:48:46" itemprop="dateModified" datetime="2025-04-22T11:48:46+08:00">2025-04-22</time>
-    </span>
-
-  
-</div>
-
-        </div>
-      </header>
-
-    
-    
-    
-    <div class="post-body" itemprop="articleBody">
-          <p>不妨再加一点想法，我对于丁同学对我态度之分析：我觉得丁同学对我有好感不讨厌，但是绝对谈不上喜欢，因为我的自身条件也没有那个条件，或者更明白得说，没有那个可能。<br>那么如果用这个态度就可以解释，答应和我第二次出来玩，但是不会和我在期末月出来玩。</p>
 
       
     </div>
