@@ -39,6 +39,6 @@ Disallow: /
 
 # Allow search engines to index everything else
 User-agent: *
-Disallow:
+Disallow: /
 
 Sitemap: https://jerrylove.qzz.io/sitemap.xml
