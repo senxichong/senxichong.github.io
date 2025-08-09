@@ -19,24 +19,27 @@
 
 <script class="next-config" data-name="main" type="application/json">{"hostname":"jerrylove.qzz.io","root":"/","images":"/images","scheme":"Muse","darkmode":false,"version":"8.23.0","exturl":false,"sidebar":{"position":"left","width_expanded":320,"width_dual_column":240,"display":"post","padding":18,"offset":12},"hljswrap":true,"codeblock":{"theme":{"light":"default","dark":"stackoverflow-dark"},"prism":{"light":"prism","dark":"prism-dark"},"copy_button":{"enable":false,"style":null},"fold":{"enable":false,"height":500},"language":false},"bookmark":{"enable":false,"color":"#222","save":"auto"},"mediumzoom":false,"lazyload":false,"pangu":false,"comments":{"style":"tabs","active":null,"storage":true,"lazyload":false,"nav":null},"stickytabs":false,"motion":{"enable":true,"async":false,"duration":200,"transition":{"menu_item":"fadeInDown","post_block":"fadeIn","post_header":"fadeInDown","post_body":"fadeInDown","coll_header":"fadeInLeft","sidebar":"fadeInUp"}},"i18n":{"placeholder":"搜索...","empty":"没有找到任何搜索结果：${query}","hits_time":"找到 ${hits} 个搜索结果（用时 ${time} 毫秒）","hits":"找到 ${hits} 个搜索结果"}}</script><script src="/js/config.js" defer></script>
 
-    <meta name="description" content="希望你头戴簪花，一路走来，一路盛开">
-<meta property="og:type" content="website">
-<meta property="og:title" content="senxichong&#39;s blog">
-<meta property="og:url" content="https://jerrylove.qzz.io/tags/research/index.html">
+    <meta name="description" content="🏃‍♂️ 每日训练记录   跑步(公里) 力量训练    0.8 无    近期去了陕南游玩了两天，主要是游山玩水，相当一个闲云野鹤，好不自在！但是快乐的时间总是短暂的，我们第一天吃了吃火锅，第二天在太白县城吃了些饭菜就回家了。小县城也有小县城的好，节奏慢，人少，基本没啥事情，感觉一万年都是一个样子。多少人穷其一生所追求的不过是那个样子。可叹世人无知，疯狂追求所谓的成功，可到头来幸福感比不过小县">
+<meta property="og:type" content="article">
+<meta property="og:title" content="近期事件汇总">
+<meta property="og:url" content="https://jerrylove.qzz.io/talks/2025-8-9-talk">
 <meta property="og:site_name" content="senxichong&#39;s blog">
-<meta property="og:description" content="希望你头戴簪花，一路走来，一路盛开">
+<meta property="og:description" content="🏃‍♂️ 每日训练记录   跑步(公里) 力量训练    0.8 无    近期去了陕南游玩了两天，主要是游山玩水，相当一个闲云野鹤，好不自在！但是快乐的时间总是短暂的，我们第一天吃了吃火锅，第二天在太白县城吃了些饭菜就回家了。小县城也有小县城的好，节奏慢，人少，基本没啥事情，感觉一万年都是一个样子。多少人穷其一生所追求的不过是那个样子。可叹世人无知，疯狂追求所谓的成功，可到头来幸福感比不过小县">
 <meta property="og:locale" content="zh_CN">
+<meta property="article:published_time" content="2025-08-08T16:00:00.000Z">
+<meta property="article:modified_time" content="2025-08-09T16:04:46.905Z">
 <meta property="article:author" content="senxichong">
+<meta property="article:tag" content="daily">
 <meta name="twitter:card" content="summary">
 
 
-<link rel="canonical" href="https://jerrylove.qzz.io/tags/research/">
+<link rel="canonical" href="https://jerrylove.qzz.io/talks/2025-8-9-talk">
 
 
-<script class="next-config" data-name="page" type="application/json">{"sidebar":"","isHome":false,"isPost":false,"lang":"zh-CN","comments":"","permalink":"","path":"tags/research/index.html","title":""}</script>
+<script class="next-config" data-name="page" type="application/json">{"sidebar":"","isHome":false,"isPost":true,"lang":"zh-CN","comments":true,"permalink":"https://jerrylove.qzz.io/talks/2025-8-9-talk","path":"/talks/2025-8-9-talk","title":"近期事件汇总"}</script>
 
 <script class="next-config" data-name="calendar" type="application/json">""</script>
-<title>标签: research | senxichong's blog</title>
+<title>近期事件汇总 | senxichong's blog</title>
   
 
 
@@ -113,7 +116,7 @@
   
   <aside class="sidebar">
 
-    <div class="sidebar-inner sidebar-overview-active">
+    <div class="sidebar-inner sidebar-nav-active sidebar-toc-active">
       <ul class="sidebar-nav">
         <li class="sidebar-nav-toc">
           文章目录
@@ -126,6 +129,7 @@
       <div class="sidebar-panel-container">
         <!--noindex-->
         <div class="post-toc-wrap sidebar-panel">
+            <div class="post-toc animated"><ol class="nav"><li class="nav-item nav-level-2"><a class="nav-link" href="#%F0%9F%8F%83%E2%80%8D%E2%99%82%EF%B8%8F-%E6%AF%8F%E6%97%A5%E8%AE%AD%E7%BB%83%E8%AE%B0%E5%BD%95"><span class="nav-number">1.</span> <span class="nav-text">🏃‍♂️ 每日训练记录</span></a></li></ol></div>
         </div>
         <!--/noindex-->
 
@@ -170,70 +174,131 @@
 
     </div>
 
-    <div class="main-inner tag posts-collapse">
+    <div class="main-inner post posts-expand">
 
 
   
+
+
+<div class="post-block">
   
   
-  <div class="post-block">
-    <div class="post-content">
-      <div class="collection-title">
-        <h1 class="collection-header">research
-          <small>标签</small>
+
+  <article itemscope itemtype="http://schema.org/Article" class="post-content" lang="zh-CN">
+    <link itemprop="mainEntityOfPage" href="https://jerrylove.qzz.io/talks/2025-8-9-talk">
+
+    <span hidden itemprop="author" itemscope itemtype="http://schema.org/Person">
+      <meta itemprop="image" content="/images/avatar.png">
+      <meta itemprop="name" content="senxichong">
+    </span>
+
+    <span hidden itemprop="publisher" itemscope itemtype="http://schema.org/Organization">
+      <meta itemprop="name" content="senxichong's blog">
+      <meta itemprop="description" content="希望你头戴簪花，一路走来，一路盛开">
+    </span>
+
+    <span hidden itemprop="post" itemscope itemtype="http://schema.org/CreativeWork">
+      <meta itemprop="name" content="近期事件汇总 | senxichong's blog">
+      <meta itemprop="description" content="">
+    </span>
+      <header class="post-header">
+        <h1 class="post-title" itemprop="name headline">
+          近期事件汇总
         </h1>
-      </div>
 
-      
-    <div class="collection-year">
-      <span class="collection-header">2025</span>
+        <div class="post-meta-container">
+          <div class="post-meta">
+    <span class="post-meta-item">
+      <span class="post-meta-item-icon">
+        <i class="far fa-calendar"></i>
+      </span>
+      <span class="post-meta-item-text">发表于</span>
+
+      <time title="创建时间：2025-08-09 00:00:00" itemprop="dateCreated datePublished" datetime="2025-08-09T00:00:00+08:00">2025-08-09</time>
+    </span>
+    <span class="post-meta-item">
+      <span class="post-meta-item-icon">
+        <i class="fas fa-map-marker-alt"></i>
+      </span>
+      <span class="post-meta-item-text">Venue:</span>
+      <span>XJTU</span>
+    </span>
+    <span class="post-meta-item">
+      <span class="post-meta-item-icon">
+        <i class="fas fa-globe-asia"></i>
+      </span>
+      <span class="post-meta-item-text">Location:</span>
+      <span>CN</span>
+    </span>
+    <span class="post-meta-item">
+      <span class="post-meta-item-icon">
+        <i class="far fa-calendar-check"></i>
+      </span>
+      <span class="post-meta-item-text">更新于</span>
+      <time title="修改时间：2025-08-10 00:04:46" itemprop="dateModified" datetime="2025-08-10T00:04:46+08:00">2025-08-10</time>
+    </span>
+
+  
+</div>
+
+        </div>
+      </header>
+
+    
+    
+    
+    <div class="post-body" itemprop="articleBody"><h2 id="🏃‍♂️-每日训练记录"><a href="#🏃‍♂️-每日训练记录" class="headerlink" title="🏃‍♂️ 每日训练记录"></a>🏃‍♂️ 每日训练记录</h2><table>
+<thead>
+<tr>
+<th>跑步(公里)</th>
+<th>力量训练</th>
+</tr>
+</thead>
+<tbody><tr>
+<td>0.8</td>
+<td>无</td>
+</tr>
+</tbody></table>
+<hr>
+<p>近期去了陕南游玩了两天，主要是游山玩水，相当一个闲云野鹤，好不自在！但是快乐的时间总是短暂的，我们第一天吃了吃火锅，第二天在太白县城吃了些饭菜就回家了。<br>小县城也有小县城的好，节奏慢，人少，基本没啥事情，感觉一万年都是一个样子。多少人穷其一生所追求的不过是那个样子。可叹世人无知，疯狂追求所谓的成功，可到头来幸福感比不过小县城里面的人，不如人家平淡一生，自己在大城市里打拼，外人看来是都是精英，可只有自己知道自己是多么牛马，外表光鲜，内在还是靠自己劳动赚钱的人，和那些大资本家躺着就赚钱的境界是玩玩不能比的，有时候人就这样，得不到的永远在悸动，渴望，无限美化自己没有走过的那条路，殊不知，自己有的是走了另外一条路的自己多么羡慕的。可笑可叹。</p>
+<blockquote>
+<p>Two roads diverged in a yellow wood,<br>And sorry I could not travel both<br>And be one traveler, long I stood<br>And looked down one as far as I could<br>To where it bent in the undergrowth;<br>Then took the other, as just as fair,<br>And having perhaps the better claim,<br>Because it was grassy and wanted wear;<br>Though as for that the passing there<br>Had worn them really about the same,<br>And both that morning equally lay<br>In leaves no step had trodden black.<br>Oh, I kept the first for another day!<br>Yet knowing how way leads on to way,<br>I doubted if I should ever come back.</p>
+</blockquote>
+<blockquote>
+<p>I shall be telling this with a sigh<br>Somewhere ages and ages hence;<br>Two roads diverged in a wood, and I－<br>I took the one less traveled by,<br>And that has made all the difference.</p>
+</blockquote>
+<p>平淡的生活有时候也不错。自己努力了这麽多年突然觉得不值得，自己的付出和可能的回报不成正比，倒不如去摆烂来得逍遥自在。不过，有些事是无法由我自己决定的，只能走走看看了。</p>
+
     </div>
 
-  <article itemscope itemtype="http://schema.org/Article">
-    <header class="post-header">
-      <div class="post-meta-container">
-        <time itemprop="dateCreated"
-              datetime="2025-05-11T00:00:00+08:00"
-              content="2025-05-11">
-          05-11
-        </time>
-      </div>
+    
+    
+    
 
-      <div class="post-title">
-          <a class="post-title-link" href="/talks/2025-5-11-talk" itemprop="url">
-            <span itemprop="name">转载新华时评</span>
-          </a>
-      </div>
+    <footer class="post-footer">
+          <div class="post-tags">
+              <a href="/tags/daily/" rel="tag"># daily</a>
+          </div>
 
-      
-    </header>
+        
+
+          <div class="post-nav">
+            <div class="post-nav-item">
+                <a href="/talks/2025-8-7-talk" rel="prev" title="夜未眠所想">
+                  <i class="fa fa-angle-left"></i> 夜未眠所想
+                </a>
+            </div>
+            <div class="post-nav-item">
+            </div>
+          </div>
+    </footer>
   </article>
+</div>
 
-  <article itemscope itemtype="http://schema.org/Article">
-    <header class="post-header">
-      <div class="post-meta-container">
-        <time itemprop="dateCreated"
-              datetime="2025-05-03T00:00:00+08:00"
-              content="2025-05-03">
-          05-03
-        </time>
-      </div>
 
-      <div class="post-title">
-          <a class="post-title-link" href="/talks/2025-5-3-talk" itemprop="url">
-            <span itemprop="name">工业化比较</span>
-          </a>
-      </div>
 
-      
-    </header>
-  </article>
 
-    </div>
-  </div>
-  
-  
-  
+
 
 </div>
   </main>
