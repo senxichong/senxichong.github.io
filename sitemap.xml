@@ -2,6 +2,15 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://jerrylove.qzz.io/talks/2025-8-11-talk</loc>
+    
+    <lastmod>2025-08-11</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://jerrylove.qzz.io/talks/2025-8-9-talk</loc>
     
     <lastmod>2025-08-09</lastmod>
@@ -398,15 +407,6 @@
   </url>
   
   <url>
-    <loc>https://jerrylove.qzz.io/2020/07/10/2020-07-10-ReleaseNode/</loc>
-    
-    <lastmod>2024-11-22</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>https://jerrylove.qzz.io/2020/07/11/2020-07-11-blog_info/</loc>
     
     <lastmod>2024-11-22</lastmod>
@@ -416,7 +416,7 @@
   </url>
   
   <url>
-    <loc>https://jerrylove.qzz.io/2016/11/20/2016-11-20-markdownTool/</loc>
+    <loc>https://jerrylove.qzz.io/2020/07/10/2020-07-10-ReleaseNode/</loc>
     
     <lastmod>2024-11-22</lastmod>
     
@@ -434,7 +434,7 @@
   </url>
   
   <url>
-    <loc>https://jerrylove.qzz.io/2025/04/18/2016-06-12-HEXO_Advanced/</loc>
+    <loc>https://jerrylove.qzz.io/2016/11/20/2016-11-20-markdownTool/</loc>
     
     <lastmod>2024-11-22</lastmod>
     
@@ -451,10 +451,19 @@
     <priority>0.6</priority>
   </url>
   
+  <url>
+    <loc>https://jerrylove.qzz.io/2025/04/18/2016-06-12-HEXO_Advanced/</loc>
+    
+    <lastmod>2024-11-22</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
 
   <url>
     <loc>https://jerrylove.qzz.io/</loc>
-    <lastmod>2025-08-09</lastmod>
+    <lastmod>2025-08-11</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
@@ -462,91 +471,91 @@
   
   <url>
     <loc>https://jerrylove.qzz.io/tags/hexo/</loc>
-    <lastmod>2025-08-09</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://jerrylove.qzz.io/tags/markdown/</loc>
-    <lastmod>2025-08-09</lastmod>
+    <lastmod>2025-08-11</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://jerrylove.qzz.io/tags/jekyll/</loc>
-    <lastmod>2025-08-09</lastmod>
+    <lastmod>2025-08-11</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>https://jerrylove.qzz.io/tags/reflection/</loc>
-    <lastmod>2025-08-09</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://jerrylove.qzz.io/tags/study-record/</loc>
-    <lastmod>2025-08-09</lastmod>
+    <loc>https://jerrylove.qzz.io/tags/markdown/</loc>
+    <lastmod>2025-08-11</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://jerrylove.qzz.io/tags/life/</loc>
-    <lastmod>2025-08-09</lastmod>
+    <lastmod>2025-08-11</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://jerrylove.qzz.io/tags/study-record/</loc>
+    <lastmod>2025-08-11</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://jerrylove.qzz.io/tags/reflection/</loc>
+    <lastmod>2025-08-11</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://jerrylove.qzz.io/tags/talk/</loc>
-    <lastmod>2025-08-09</lastmod>
+    <lastmod>2025-08-11</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://jerrylove.qzz.io/tags/research/</loc>
-    <lastmod>2025-08-09</lastmod>
+    <lastmod>2025-08-11</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://jerrylove.qzz.io/tags/daliy/</loc>
-    <lastmod>2025-08-09</lastmod>
+    <lastmod>2025-08-11</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://jerrylove.qzz.io/tags/daily/</loc>
-    <lastmod>2025-08-09</lastmod>
+    <lastmod>2025-08-11</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://jerrylove.qzz.io/tags/letter/</loc>
-    <lastmod>2025-08-09</lastmod>
+    <lastmod>2025-08-11</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://jerrylove.qzz.io/tags/reading/</loc>
-    <lastmod>2025-08-09</lastmod>
+    <lastmod>2025-08-11</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://jerrylove.qzz.io/tags/featured/</loc>
-    <lastmod>2025-08-09</lastmod>
+    <lastmod>2025-08-11</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
