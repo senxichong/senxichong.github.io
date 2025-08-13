@@ -144,7 +144,7 @@
   <nav class="site-state">
       <div class="site-state-item site-state-posts">
         <a href="/archives/">
-          <span class="site-state-item-count">50</span>
+          <span class="site-state-item-count">52</span>
           <span class="site-state-item-name">日志</span>
         </a>
       </div>
@@ -265,8 +265,8 @@
 
           <div class="post-nav">
             <div class="post-nav-item">
-                <a href="/2020/07/11/2020-07-11-blog_info/" rel="prev" title="博客模板功能介绍">
-                  <i class="fa fa-angle-left"></i> 博客模板功能介绍
+                <a href="/talks/2024-5-8-talk" rel="prev" title="不要为之前的感情消耗情绪">
+                  <i class="fa fa-angle-left"></i> 不要为之前的感情消耗情绪
                 </a>
             </div>
             <div class="post-nav-item">
